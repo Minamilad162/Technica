@@ -1,0 +1,1 @@
+Adjusted footer background and layout to match the approved teal footer mockup more closely: unified background philosophy, full-footer wave language, centered grid, payment heading lines, and lower-right glowing diagonal accent. Version 1.13.12.

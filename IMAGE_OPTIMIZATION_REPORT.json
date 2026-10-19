@@ -1,0 +1,2325 @@
+{
+  "images_before_bytes": 22593112,
+  "images_after_bytes": 9184416,
+  "processed_images": 144,
+  "method": "Same images; WebP delivery encoding and proportionate resizing only. No cropping, compositing, regeneration, content or colour edits.",
+  "images": [
+    {
+      "original": "/assets/certificates/iso-14001-preview.webp",
+      "optimized": "/assets/certificates/iso-14001-preview.webp",
+      "before_bytes": 122466,
+      "after_bytes": 92026,
+      "before_dimensions": [
+        720,
+        1018
+      ],
+      "after_dimensions": [
+        680,
+        961
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.71
+    },
+    {
+      "original": "/assets/certificates/iso-14001.webp",
+      "optimized": "/assets/certificates/iso-14001.webp",
+      "before_bytes": 495250,
+      "after_bytes": 287334,
+      "before_dimensions": [
+        1556,
+        2200
+      ],
+      "after_dimensions": [
+        1485,
+        2100
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 40.52
+    },
+    {
+      "original": "/assets/certificates/iso-21001-preview.webp",
+      "optimized": "/assets/certificates/iso-21001-preview.webp",
+      "before_bytes": 97088,
+      "after_bytes": 78232,
+      "before_dimensions": [
+        720,
+        1018
+      ],
+      "after_dimensions": [
+        680,
+        961
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 40.24
+    },
+    {
+      "original": "/assets/certificates/iso-21001.webp",
+      "optimized": "/assets/certificates/iso-21001.webp",
+      "before_bytes": 326998,
+      "after_bytes": 209472,
+      "before_dimensions": [
+        1556,
+        2200
+      ],
+      "after_dimensions": [
+        1485,
+        2100
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 42.15
+    },
+    {
+      "original": "/assets/certificates/iso-29993-preview.webp",
+      "optimized": "/assets/certificates/iso-29993-preview.webp",
+      "before_bytes": 95916,
+      "after_bytes": 77872,
+      "before_dimensions": [
+        720,
+        1018
+      ],
+      "after_dimensions": [
+        680,
+        961
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 41.67
+    },
+    {
+      "original": "/assets/certificates/iso-29993.webp",
+      "optimized": "/assets/certificates/iso-29993.webp",
+      "before_bytes": 309860,
+      "after_bytes": 211818,
+      "before_dimensions": [
+        1556,
+        2200
+      ],
+      "after_dimensions": [
+        1485,
+        2100
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 43.4
+    },
+    {
+      "original": "/assets/certificates/iso-45001-preview.webp",
+      "optimized": "/assets/certificates/iso-45001-preview.webp",
+      "before_bytes": 123352,
+      "after_bytes": 94754,
+      "before_dimensions": [
+        720,
+        1018
+      ],
+      "after_dimensions": [
+        680,
+        961
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.96
+    },
+    {
+      "original": "/assets/certificates/iso-45001.webp",
+      "optimized": "/assets/certificates/iso-45001.webp",
+      "before_bytes": 499890,
+      "after_bytes": 289416,
+      "before_dimensions": [
+        1556,
+        2200
+      ],
+      "after_dimensions": [
+        1485,
+        2100
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 40.57
+    },
+    {
+      "original": "/assets/certificates/iso-9001-preview.webp",
+      "optimized": "/assets/certificates/iso-9001-preview.webp",
+      "before_bytes": 121972,
+      "after_bytes": 92850,
+      "before_dimensions": [
+        720,
+        1018
+      ],
+      "after_dimensions": [
+        680,
+        961
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.88
+    },
+    {
+      "original": "/assets/certificates/iso-9001.webp",
+      "optimized": "/assets/certificates/iso-9001.webp",
+      "before_bytes": 481886,
+      "after_bytes": 284228,
+      "before_dimensions": [
+        1556,
+        2200
+      ],
+      "after_dimensions": [
+        1485,
+        2100
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 40.45
+    },
+    {
+      "original": "/assets/collaboration.jpg",
+      "optimized": "/assets/collaboration.webp",
+      "before_bytes": 341604,
+      "after_bytes": 60814,
+      "before_dimensions": [
+        1200,
+        1799
+      ],
+      "after_dimensions": [
+        600,
+        900
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 35.74
+    },
+    {
+      "original": "/assets/company-experience-heading.png",
+      "optimized": "/assets/company-experience-heading.webp",
+      "before_bytes": 75234,
+      "after_bytes": 31844,
+      "before_dimensions": [
+        1228,
+        124
+      ],
+      "after_dimensions": [
+        1100,
+        111
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/apave.png",
+      "optimized": "/assets/company-logos/apave.webp",
+      "before_bytes": 4078,
+      "after_bytes": 2762,
+      "before_dimensions": [
+        120,
+        53
+      ],
+      "after_dimensions": [
+        120,
+        53
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/aramco.webp",
+      "optimized": "/assets/company-logos/aramco.webp",
+      "before_bytes": 6044,
+      "after_bytes": 6044,
+      "before_dimensions": [
+        465,
+        94
+      ],
+      "after_dimensions": [
+        465,
+        94
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": null
+    },
+    {
+      "original": "/assets/company-logos/boostmind-transparent.png",
+      "optimized": "/assets/company-logos/boostmind-transparent.webp",
+      "before_bytes": 433632,
+      "after_bytes": 46406,
+      "before_dimensions": [
+        2172,
+        724
+      ],
+      "after_dimensions": [
+        720,
+        240
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/boostmind.png",
+      "optimized": "/assets/company-logos/boostmind.webp",
+      "before_bytes": 805781,
+      "after_bytes": 93478,
+      "before_dimensions": [
+        2172,
+        724
+      ],
+      "after_dimensions": [
+        720,
+        240
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/dlng.png",
+      "optimized": "/assets/company-logos/dlng.webp",
+      "before_bytes": 470133,
+      "after_bytes": 55004,
+      "before_dimensions": [
+        1440,
+        720
+      ],
+      "after_dimensions": [
+        720,
+        360
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/enap.webp",
+      "optimized": "/assets/company-logos/enap.webp",
+      "before_bytes": 11734,
+      "after_bytes": 11734,
+      "before_dimensions": [
+        269,
+        266
+      ],
+      "after_dimensions": [
+        269,
+        266
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": null
+    },
+    {
+      "original": "/assets/company-logos/enppi.png",
+      "optimized": "/assets/company-logos/enppi.webp",
+      "before_bytes": 13375,
+      "after_bytes": 7336,
+      "before_dimensions": [
+        1010,
+        301
+      ],
+      "after_dimensions": [
+        720,
+        215
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/fahss.png",
+      "optimized": "/assets/company-logos/fahss.webp",
+      "before_bytes": 43121,
+      "after_bytes": 29998,
+      "before_dimensions": [
+        1099,
+        494
+      ],
+      "after_dimensions": [
+        720,
+        324
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/hassan-allam.png",
+      "optimized": "/assets/company-logos/hassan-allam.webp",
+      "before_bytes": 106855,
+      "after_bytes": 24030,
+      "before_dimensions": [
+        2560,
+        1280
+      ],
+      "after_dimensions": [
+        720,
+        360
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/hill.png",
+      "optimized": "/assets/company-logos/hill.webp",
+      "before_bytes": 4006,
+      "after_bytes": 3782,
+      "before_dimensions": [
+        210,
+        100
+      ],
+      "after_dimensions": [
+        210,
+        100
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/khatib-alami.png",
+      "optimized": "/assets/company-logos/khatib-alami.webp",
+      "before_bytes": 6441,
+      "after_bytes": 2494,
+      "before_dimensions": [
+        337,
+        199
+      ],
+      "after_dimensions": [
+        337,
+        199
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/modern-gas.png",
+      "optimized": "/assets/company-logos/modern-gas.webp",
+      "before_bytes": 25851,
+      "after_bytes": 18054,
+      "before_dimensions": [
+        284,
+        86
+      ],
+      "after_dimensions": [
+        284,
+        86
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/mopco.jpg",
+      "optimized": "/assets/company-logos/mopco.webp",
+      "before_bytes": 83801,
+      "after_bytes": 56586,
+      "before_dimensions": [
+        1000,
+        1000
+      ],
+      "after_dimensions": [
+        480,
+        480
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/nwc.jpg",
+      "optimized": "/assets/company-logos/nwc.webp",
+      "before_bytes": 29231,
+      "after_bytes": 64970,
+      "before_dimensions": [
+        1036,
+        800
+      ],
+      "after_dimensions": [
+        622,
+        480
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/overseas-gas.png",
+      "optimized": "/assets/company-logos/overseas-gas.webp",
+      "before_bytes": 12749,
+      "after_bytes": 9394,
+      "before_dimensions": [
+        180,
+        100
+      ],
+      "after_dimensions": [
+        180,
+        100
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/pdo.png",
+      "optimized": "/assets/company-logos/pdo.webp",
+      "before_bytes": 2787,
+      "after_bytes": 2464,
+      "before_dimensions": [
+        210,
+        33
+      ],
+      "after_dimensions": [
+        210,
+        33
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/petrojet.png",
+      "optimized": "/assets/company-logos/petrojet.webp",
+      "before_bytes": 55086,
+      "after_bytes": 18002,
+      "before_dimensions": [
+        2206,
+        1245
+      ],
+      "after_dimensions": [
+        720,
+        406
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/petrosafe.png",
+      "optimized": "/assets/company-logos/petrosafe.webp",
+      "before_bytes": 86771,
+      "after_bytes": 28418,
+      "before_dimensions": [
+        956,
+        934
+      ],
+      "after_dimensions": [
+        491,
+        480
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/pico.png",
+      "optimized": "/assets/company-logos/pico.webp",
+      "before_bytes": 9293,
+      "after_bytes": 5890,
+      "before_dimensions": [
+        500,
+        133
+      ],
+      "after_dimensions": [
+        500,
+        133
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/red-sea-global.webp",
+      "optimized": "/assets/company-logos/red-sea-global.webp",
+      "before_bytes": 29630,
+      "after_bytes": 29630,
+      "before_dimensions": [
+        1016,
+        633
+      ],
+      "after_dimensions": [
+        1016,
+        633
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": null
+    },
+    {
+      "original": "/assets/company-logos/reda.png",
+      "optimized": "/assets/company-logos/reda.webp",
+      "before_bytes": 5468,
+      "after_bytes": 2904,
+      "before_dimensions": [
+        300,
+        68
+      ],
+      "after_dimensions": [
+        300,
+        68
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/smrc.png",
+      "optimized": "/assets/company-logos/smrc.webp",
+      "before_bytes": 41047,
+      "after_bytes": 27810,
+      "before_dimensions": [
+        300,
+        267
+      ],
+      "after_dimensions": [
+        300,
+        267
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/staterra.png",
+      "optimized": "/assets/company-logos/staterra.webp",
+      "before_bytes": 5745,
+      "after_bytes": 4406,
+      "before_dimensions": [
+        121,
+        28
+      ],
+      "after_dimensions": [
+        121,
+        28
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/sustain-plus.png",
+      "optimized": "/assets/company-logos/sustain-plus.webp",
+      "before_bytes": 48812,
+      "after_bytes": 28924,
+      "before_dimensions": [
+        602,
+        137
+      ],
+      "after_dimensions": [
+        602,
+        137
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/tuv-austria.png",
+      "optimized": "/assets/company-logos/tuv-austria.webp",
+      "before_bytes": 9719,
+      "after_bytes": 16660,
+      "before_dimensions": [
+        600,
+        600
+      ],
+      "after_dimensions": [
+        480,
+        480
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/company-logos/worley.png",
+      "optimized": "/assets/company-logos/worley.webp",
+      "before_bytes": 12830,
+      "after_bytes": 10090,
+      "before_dimensions": [
+        320,
+        75
+      ],
+      "after_dimensions": [
+        320,
+        75
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 99
+    },
+    {
+      "original": "/assets/egyptian-engineer-cutout.png",
+      "optimized": "/assets/egyptian-engineer-cutout.webp",
+      "before_bytes": 1684130,
+      "after_bytes": 81410,
+      "before_dimensions": [
+        1536,
+        1024
+      ],
+      "after_dimensions": [
+        1152,
+        768
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 36.91
+    },
+    {
+      "original": "/assets/egyptian-engineer-hero.png",
+      "optimized": "/assets/egyptian-engineer-hero.webp",
+      "before_bytes": 2029669,
+      "after_bytes": 84516,
+      "before_dimensions": [
+        1536,
+        1024
+      ],
+      "after_dimensions": [
+        1200,
+        800
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.14
+    },
+    {
+      "original": "/assets/engineer.jpg",
+      "optimized": "/assets/engineer.webp",
+      "before_bytes": 219761,
+      "after_bytes": 120740,
+      "before_dimensions": [
+        1200,
+        800
+      ],
+      "after_dimensions": [
+        1200,
+        800
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.33
+    },
+    {
+      "original": "/assets/engineering.jpg",
+      "optimized": "/assets/engineering.webp",
+      "before_bytes": 234240,
+      "after_bytes": 130474,
+      "before_dimensions": [
+        1200,
+        800
+      ],
+      "after_dimensions": [
+        1200,
+        800
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.44
+    },
+    {
+      "original": "/assets/industrial-vibrant.png",
+      "optimized": "/assets/industrial-vibrant.webp",
+      "before_bytes": 2853156,
+      "after_bytes": 221880,
+      "before_dimensions": [
+        1536,
+        1024
+      ],
+      "after_dimensions": [
+        1200,
+        800
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 30.83
+    },
+    {
+      "original": "/assets/industrial.jpg",
+      "optimized": "/assets/industrial.webp",
+      "before_bytes": 365748,
+      "after_bytes": 122052,
+      "before_dimensions": [
+        1600,
+        1067
+      ],
+      "after_dimensions": [
+        1200,
+        800
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.27
+    },
+    {
+      "original": "/assets/service-photos/bowtie-industrial.webp",
+      "optimized": "/assets/service-photos/bowtie-industrial.webp",
+      "before_bytes": 229928,
+      "after_bytes": 109304,
+      "before_dimensions": [
+        1536,
+        1024
+      ],
+      "after_dimensions": [
+        1200,
+        800
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.94
+    },
+    {
+      "original": "/assets/service-photos/fera-industrial-v2.jpg",
+      "optimized": "/assets/service-photos/fera-industrial-v2.webp",
+      "before_bytes": 710300,
+      "after_bytes": 243020,
+      "before_dimensions": [
+        1536,
+        1024
+      ],
+      "after_dimensions": [
+        1200,
+        800
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 33.94
+    },
+    {
+      "original": "/assets/service-photos/hazop-industrial.webp",
+      "optimized": "/assets/service-photos/hazop-industrial.webp",
+      "before_bytes": 244426,
+      "after_bytes": 111930,
+      "before_dimensions": [
+        1536,
+        1024
+      ],
+      "after_dimensions": [
+        1200,
+        800
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.74
+    },
+    {
+      "original": "/assets/service-photos/qra-industrial.webp",
+      "optimized": "/assets/service-photos/qra-industrial.webp",
+      "before_bytes": 626620,
+      "after_bytes": 273484,
+      "before_dimensions": [
+        1535,
+        1024
+      ],
+      "after_dimensions": [
+        1200,
+        801
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 34.05
+    },
+    {
+      "original": "/assets/services/e01.webp",
+      "optimized": "/assets/services/e01.webp",
+      "before_bytes": 92788,
+      "after_bytes": 56050,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.02
+    },
+    {
+      "original": "/assets/services/e02.webp",
+      "optimized": "/assets/services/e02.webp",
+      "before_bytes": 54064,
+      "after_bytes": 34290,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.98
+    },
+    {
+      "original": "/assets/services/e03.webp",
+      "optimized": "/assets/services/e03.webp",
+      "before_bytes": 79624,
+      "after_bytes": 51586,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.01
+    },
+    {
+      "original": "/assets/services/e04.webp",
+      "optimized": "/assets/services/e04.webp",
+      "before_bytes": 84272,
+      "after_bytes": 50294,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.51
+    },
+    {
+      "original": "/assets/services/e05.webp",
+      "optimized": "/assets/services/e05.webp",
+      "before_bytes": 60130,
+      "after_bytes": 38828,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.73
+    },
+    {
+      "original": "/assets/services/e06.webp",
+      "optimized": "/assets/services/e06.webp",
+      "before_bytes": 76890,
+      "after_bytes": 48292,
+      "before_dimensions": [
+        1100,
+        562
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.8
+    },
+    {
+      "original": "/assets/services/e07.webp",
+      "optimized": "/assets/services/e07.webp",
+      "before_bytes": 48354,
+      "after_bytes": 29598,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 39.94
+    },
+    {
+      "original": "/assets/services/e08.webp",
+      "optimized": "/assets/services/e08.webp",
+      "before_bytes": 63760,
+      "after_bytes": 40044,
+      "before_dimensions": [
+        1100,
+        562
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.38
+    },
+    {
+      "original": "/assets/services/h03.webp",
+      "optimized": "/assets/services/h03.webp",
+      "before_bytes": 135496,
+      "after_bytes": 78970,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 35.01
+    },
+    {
+      "original": "/assets/services/h04.webp",
+      "optimized": "/assets/services/h04.webp",
+      "before_bytes": 80054,
+      "after_bytes": 52034,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.52
+    },
+    {
+      "original": "/assets/services/h05.webp",
+      "optimized": "/assets/services/h05.webp",
+      "before_bytes": 48434,
+      "after_bytes": 35608,
+      "before_dimensions": [
+        1024,
+        524
+      ],
+      "after_dimensions": [
+        1000,
+        512
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.68
+    },
+    {
+      "original": "/assets/services/h06.webp",
+      "optimized": "/assets/services/h06.webp",
+      "before_bytes": 57004,
+      "after_bytes": 36350,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 39.44
+    },
+    {
+      "original": "/assets/services/h07.webp",
+      "optimized": "/assets/services/h07.webp",
+      "before_bytes": 60766,
+      "after_bytes": 45338,
+      "before_dimensions": [
+        1024,
+        524
+      ],
+      "after_dimensions": [
+        1000,
+        512
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.67
+    },
+    {
+      "original": "/assets/services/h08.webp",
+      "optimized": "/assets/services/h08.webp",
+      "before_bytes": 34884,
+      "after_bytes": 27440,
+      "before_dimensions": [
+        760,
+        389
+      ],
+      "after_dimensions": [
+        760,
+        389
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 39.52
+    },
+    {
+      "original": "/assets/services/h09.webp",
+      "optimized": "/assets/services/h09.webp",
+      "before_bytes": 70120,
+      "after_bytes": 43520,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.44
+    },
+    {
+      "original": "/assets/services/h10.webp",
+      "optimized": "/assets/services/h10.webp",
+      "before_bytes": 28722,
+      "after_bytes": 19104,
+      "before_dimensions": [
+        1100,
+        560
+      ],
+      "after_dimensions": [
+        1000,
+        509
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 41.19
+    },
+    {
+      "original": "/assets/services/h11.webp",
+      "optimized": "/assets/services/h11.webp",
+      "before_bytes": 248404,
+      "after_bytes": 162622,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 34.85
+    },
+    {
+      "original": "/assets/services/h12.webp",
+      "optimized": "/assets/services/h12.webp",
+      "before_bytes": 53852,
+      "after_bytes": 34650,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 39.82
+    },
+    {
+      "original": "/assets/services/h13.webp",
+      "optimized": "/assets/services/h13.webp",
+      "before_bytes": 60202,
+      "after_bytes": 49528,
+      "before_dimensions": [
+        927,
+        473
+      ],
+      "after_dimensions": [
+        927,
+        473
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 39.34
+    },
+    {
+      "original": "/assets/services/h16.webp",
+      "optimized": "/assets/services/h16.webp",
+      "before_bytes": 47254,
+      "after_bytes": 38100,
+      "before_dimensions": [
+        876,
+        448
+      ],
+      "after_dimensions": [
+        876,
+        448
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 39.91
+    },
+    {
+      "original": "/assets/services/h17.webp",
+      "optimized": "/assets/services/h17.webp",
+      "before_bytes": 132044,
+      "after_bytes": 84504,
+      "before_dimensions": [
+        1100,
+        562
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.21
+    },
+    {
+      "original": "/assets/services/m01.webp",
+      "optimized": "/assets/services/m01.webp",
+      "before_bytes": 69476,
+      "after_bytes": 42812,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.53
+    },
+    {
+      "original": "/assets/services/m02.webp",
+      "optimized": "/assets/services/m02.webp",
+      "before_bytes": 21752,
+      "after_bytes": 13420,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 43.46
+    },
+    {
+      "original": "/assets/services/m03.webp",
+      "optimized": "/assets/services/m03.webp",
+      "before_bytes": 44918,
+      "after_bytes": 26784,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 39.58
+    },
+    {
+      "original": "/assets/services/m04.webp",
+      "optimized": "/assets/services/m04.webp",
+      "before_bytes": 91042,
+      "after_bytes": 57118,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.07
+    },
+    {
+      "original": "/assets/services/m05.webp",
+      "optimized": "/assets/services/m05.webp",
+      "before_bytes": 85558,
+      "after_bytes": 54536,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.09
+    },
+    {
+      "original": "/assets/services/m06.webp",
+      "optimized": "/assets/services/m06.webp",
+      "before_bytes": 47650,
+      "after_bytes": 28382,
+      "before_dimensions": [
+        1100,
+        562
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 39.25
+    },
+    {
+      "original": "/assets/services/m07.webp",
+      "optimized": "/assets/services/m07.webp",
+      "before_bytes": 120522,
+      "after_bytes": 74510,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 34.26
+    },
+    {
+      "original": "/assets/services/m08.webp",
+      "optimized": "/assets/services/m08.webp",
+      "before_bytes": 94040,
+      "after_bytes": 55178,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.4
+    },
+    {
+      "original": "/assets/services/m09.webp",
+      "optimized": "/assets/services/m09.webp",
+      "before_bytes": 36794,
+      "after_bytes": 20400,
+      "before_dimensions": [
+        1100,
+        562
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 40.95
+    },
+    {
+      "original": "/assets/services/m10.webp",
+      "optimized": "/assets/services/m10.webp",
+      "before_bytes": 43262,
+      "after_bytes": 27770,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 40.73
+    },
+    {
+      "original": "/assets/services/p01.webp",
+      "optimized": "/assets/services/p01.webp",
+      "before_bytes": 89668,
+      "after_bytes": 68042,
+      "before_dimensions": [
+        1024,
+        524
+      ],
+      "after_dimensions": [
+        1000,
+        512
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.21
+    },
+    {
+      "original": "/assets/services/p02.webp",
+      "optimized": "/assets/services/p02.webp",
+      "before_bytes": 76206,
+      "after_bytes": 55686,
+      "before_dimensions": [
+        1024,
+        523
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.23
+    },
+    {
+      "original": "/assets/services/p03.webp",
+      "optimized": "/assets/services/p03.webp",
+      "before_bytes": 50378,
+      "after_bytes": 42000,
+      "before_dimensions": [
+        568,
+        290
+      ],
+      "after_dimensions": [
+        568,
+        290
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.71
+    },
+    {
+      "original": "/assets/services/p04.webp",
+      "optimized": "/assets/services/p04.webp",
+      "before_bytes": 46862,
+      "after_bytes": 34710,
+      "before_dimensions": [
+        1024,
+        524
+      ],
+      "after_dimensions": [
+        1000,
+        512
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 39.94
+    },
+    {
+      "original": "/assets/services/p05.webp",
+      "optimized": "/assets/services/p05.webp",
+      "before_bytes": 61626,
+      "after_bytes": 51076,
+      "before_dimensions": [
+        841,
+        430
+      ],
+      "after_dimensions": [
+        841,
+        430
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.55
+    },
+    {
+      "original": "/assets/services/p06.webp",
+      "optimized": "/assets/services/p06.webp",
+      "before_bytes": 44004,
+      "after_bytes": 28458,
+      "before_dimensions": [
+        1081,
+        555
+      ],
+      "after_dimensions": [
+        1000,
+        513
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 39.75
+    },
+    {
+      "original": "/assets/services/p07.webp",
+      "optimized": "/assets/services/p07.webp",
+      "before_bytes": 54854,
+      "after_bytes": 40182,
+      "before_dimensions": [
+        1024,
+        523
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.96
+    },
+    {
+      "original": "/assets/services/p08.webp",
+      "optimized": "/assets/services/p08.webp",
+      "before_bytes": 100380,
+      "after_bytes": 75696,
+      "before_dimensions": [
+        1024,
+        524
+      ],
+      "after_dimensions": [
+        1000,
+        512
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.93
+    },
+    {
+      "original": "/assets/services/p09.webp",
+      "optimized": "/assets/services/p09.webp",
+      "before_bytes": 80624,
+      "after_bytes": 49530,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.08
+    },
+    {
+      "original": "/assets/services/p10.webp",
+      "optimized": "/assets/services/p10.webp",
+      "before_bytes": 52470,
+      "after_bytes": 32382,
+      "before_dimensions": [
+        1100,
+        562
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 39.51
+    },
+    {
+      "original": "/assets/services/p11.webp",
+      "optimized": "/assets/services/p11.webp",
+      "before_bytes": 38118,
+      "after_bytes": 23454,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 40.52
+    },
+    {
+      "original": "/assets/services/p12.webp",
+      "optimized": "/assets/services/p12.webp",
+      "before_bytes": 138786,
+      "after_bytes": 106680,
+      "before_dimensions": [
+        1024,
+        524
+      ],
+      "after_dimensions": [
+        1000,
+        512
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 35.34
+    },
+    {
+      "original": "/assets/services/p13.webp",
+      "optimized": "/assets/services/p13.webp",
+      "before_bytes": 133492,
+      "after_bytes": 75918,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 35.68
+    },
+    {
+      "original": "/assets/services/p14.webp",
+      "optimized": "/assets/services/p14.webp",
+      "before_bytes": 71994,
+      "after_bytes": 44336,
+      "before_dimensions": [
+        1100,
+        562
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.74
+    },
+    {
+      "original": "/assets/services/p15.webp",
+      "optimized": "/assets/services/p15.webp",
+      "before_bytes": 98330,
+      "after_bytes": 72206,
+      "before_dimensions": [
+        1024,
+        524
+      ],
+      "after_dimensions": [
+        1000,
+        512
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.68
+    },
+    {
+      "original": "/assets/services/p16.webp",
+      "optimized": "/assets/services/p16.webp",
+      "before_bytes": 199746,
+      "after_bytes": 119604,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 33.92
+    },
+    {
+      "original": "/assets/services/p17.webp",
+      "optimized": "/assets/services/p17.webp",
+      "before_bytes": 67994,
+      "after_bytes": 50870,
+      "before_dimensions": [
+        960,
+        491
+      ],
+      "after_dimensions": [
+        960,
+        491
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.27
+    },
+    {
+      "original": "/assets/services/p18.webp",
+      "optimized": "/assets/services/p18.webp",
+      "before_bytes": 107340,
+      "after_bytes": 85872,
+      "before_dimensions": [
+        1024,
+        526
+      ],
+      "after_dimensions": [
+        1000,
+        514
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.98
+    },
+    {
+      "original": "/assets/services/p19.webp",
+      "optimized": "/assets/services/p19.webp",
+      "before_bytes": 33084,
+      "after_bytes": 26622,
+      "before_dimensions": [
+        640,
+        328
+      ],
+      "after_dimensions": [
+        640,
+        328
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.76
+    },
+    {
+      "original": "/assets/services/p20.webp",
+      "optimized": "/assets/services/p20.webp",
+      "before_bytes": 39088,
+      "after_bytes": 29852,
+      "before_dimensions": [
+        1000,
+        512
+      ],
+      "after_dimensions": [
+        1000,
+        512
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 41.11
+    },
+    {
+      "original": "/assets/services/p21.webp",
+      "optimized": "/assets/services/p21.webp",
+      "before_bytes": 66168,
+      "after_bytes": 54494,
+      "before_dimensions": [
+        724,
+        370
+      ],
+      "after_dimensions": [
+        724,
+        370
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.65
+    },
+    {
+      "original": "/assets/services/p22.webp",
+      "optimized": "/assets/services/p22.webp",
+      "before_bytes": 140158,
+      "after_bytes": 87358,
+      "before_dimensions": [
+        1100,
+        563
+      ],
+      "after_dimensions": [
+        1000,
+        512
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 35.02
+    },
+    {
+      "original": "/assets/services/p23.webp",
+      "optimized": "/assets/services/p23.webp",
+      "before_bytes": 66944,
+      "after_bytes": 54508,
+      "before_dimensions": [
+        800,
+        409
+      ],
+      "after_dimensions": [
+        800,
+        409
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.29
+    },
+    {
+      "original": "/assets/services/p24.webp",
+      "optimized": "/assets/services/p24.webp",
+      "before_bytes": 102058,
+      "after_bytes": 75946,
+      "before_dimensions": [
+        1024,
+        523
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.5
+    },
+    {
+      "original": "/assets/services/p25.webp",
+      "optimized": "/assets/services/p25.webp",
+      "before_bytes": 124300,
+      "after_bytes": 79126,
+      "before_dimensions": [
+        1100,
+        560
+      ],
+      "after_dimensions": [
+        1000,
+        509
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 35.26
+    },
+    {
+      "original": "/assets/services/p26.webp",
+      "optimized": "/assets/services/p26.webp",
+      "before_bytes": 71486,
+      "after_bytes": 52266,
+      "before_dimensions": [
+        1024,
+        523
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.34
+    },
+    {
+      "original": "/assets/services/p27.webp",
+      "optimized": "/assets/services/p27.webp",
+      "before_bytes": 138442,
+      "after_bytes": 84910,
+      "before_dimensions": [
+        1100,
+        562
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 35.81
+    },
+    {
+      "original": "/assets/services/p28.webp",
+      "optimized": "/assets/services/p28.webp",
+      "before_bytes": 75684,
+      "after_bytes": 48122,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.75
+    },
+    {
+      "original": "/assets/services/p29.webp",
+      "optimized": "/assets/services/p29.webp",
+      "before_bytes": 139058,
+      "after_bytes": 90752,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.26
+    },
+    {
+      "original": "/assets/services/p30.webp",
+      "optimized": "/assets/services/p30.webp",
+      "before_bytes": 73730,
+      "after_bytes": 52872,
+      "before_dimensions": [
+        1024,
+        408
+      ],
+      "after_dimensions": [
+        1000,
+        398
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.02
+    },
+    {
+      "original": "/assets/services/p31.webp",
+      "optimized": "/assets/services/p31.webp",
+      "before_bytes": 28768,
+      "after_bytes": 16088,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 41.32
+    },
+    {
+      "original": "/assets/services/p32.webp",
+      "optimized": "/assets/services/p32.webp",
+      "before_bytes": 71726,
+      "after_bytes": 60104,
+      "before_dimensions": [
+        720,
+        368
+      ],
+      "after_dimensions": [
+        720,
+        368
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.94
+    },
+    {
+      "original": "/assets/services/p33.webp",
+      "optimized": "/assets/services/p33.webp",
+      "before_bytes": 40400,
+      "after_bytes": 32890,
+      "before_dimensions": [
+        700,
+        359
+      ],
+      "after_dimensions": [
+        700,
+        359
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.98
+    },
+    {
+      "original": "/assets/services/p34.webp",
+      "optimized": "/assets/services/p34.webp",
+      "before_bytes": 96940,
+      "after_bytes": 63666,
+      "before_dimensions": [
+        1100,
+        560
+      ],
+      "after_dimensions": [
+        1000,
+        509
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.62
+    },
+    {
+      "original": "/assets/services/p35.webp",
+      "optimized": "/assets/services/p35.webp",
+      "before_bytes": 104818,
+      "after_bytes": 80288,
+      "before_dimensions": [
+        1024,
+        523
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.12
+    },
+    {
+      "original": "/assets/services/p36.webp",
+      "optimized": "/assets/services/p36.webp",
+      "before_bytes": 58338,
+      "after_bytes": 35198,
+      "before_dimensions": [
+        1100,
+        562
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 39.7
+    },
+    {
+      "original": "/assets/services/p37.webp",
+      "optimized": "/assets/services/p37.webp",
+      "before_bytes": 59304,
+      "after_bytes": 43142,
+      "before_dimensions": [
+        1024,
+        523
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.99
+    },
+    {
+      "original": "/assets/services/p38.webp",
+      "optimized": "/assets/services/p38.webp",
+      "before_bytes": 45754,
+      "after_bytes": 35724,
+      "before_dimensions": [
+        960,
+        492
+      ],
+      "after_dimensions": [
+        960,
+        492
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 40.17
+    },
+    {
+      "original": "/assets/services/p39.webp",
+      "optimized": "/assets/services/p39.webp",
+      "before_bytes": 59354,
+      "after_bytes": 49164,
+      "before_dimensions": [
+        737,
+        377
+      ],
+      "after_dimensions": [
+        737,
+        377
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.87
+    },
+    {
+      "original": "/assets/services/p40.webp",
+      "optimized": "/assets/services/p40.webp",
+      "before_bytes": 72062,
+      "after_bytes": 41966,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.35
+    },
+    {
+      "original": "/assets/services/p41.webp",
+      "optimized": "/assets/services/p41.webp",
+      "before_bytes": 101814,
+      "after_bytes": 65634,
+      "before_dimensions": [
+        1100,
+        562
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.73
+    },
+    {
+      "original": "/assets/services/p42.webp",
+      "optimized": "/assets/services/p42.webp",
+      "before_bytes": 93284,
+      "after_bytes": 74936,
+      "before_dimensions": [
+        914,
+        466
+      ],
+      "after_dimensions": [
+        914,
+        466
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.18
+    },
+    {
+      "original": "/assets/services/p43.webp",
+      "optimized": "/assets/services/p43.webp",
+      "before_bytes": 124700,
+      "after_bytes": 78620,
+      "before_dimensions": [
+        1100,
+        562
+      ],
+      "after_dimensions": [
+        1000,
+        511
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 35.93
+    },
+    {
+      "original": "/assets/services/p44.webp",
+      "optimized": "/assets/services/p44.webp",
+      "before_bytes": 145034,
+      "after_bytes": 96250,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.65
+    },
+    {
+      "original": "/assets/services/p45.webp",
+      "optimized": "/assets/services/p45.webp",
+      "before_bytes": 59060,
+      "after_bytes": 37274,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 39.17
+    },
+    {
+      "original": "/assets/services/p46.webp",
+      "optimized": "/assets/services/p46.webp",
+      "before_bytes": 70662,
+      "after_bytes": 52260,
+      "before_dimensions": [
+        1024,
+        524
+      ],
+      "after_dimensions": [
+        1000,
+        512
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.9
+    },
+    {
+      "original": "/assets/services/p47.webp",
+      "optimized": "/assets/services/p47.webp",
+      "before_bytes": 60474,
+      "after_bytes": 38214,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.01
+    },
+    {
+      "original": "/assets/services/p48.webp",
+      "optimized": "/assets/services/p48.webp",
+      "before_bytes": 60628,
+      "after_bytes": 48826,
+      "before_dimensions": [
+        800,
+        410
+      ],
+      "after_dimensions": [
+        800,
+        410
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.3
+    },
+    {
+      "original": "/assets/services/p49.webp",
+      "optimized": "/assets/services/p49.webp",
+      "before_bytes": 85762,
+      "after_bytes": 53592,
+      "before_dimensions": [
+        1100,
+        561
+      ],
+      "after_dimensions": [
+        1000,
+        510
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.82
+    },
+    {
+      "original": "/assets/services/x01.webp",
+      "optimized": "/assets/services/x01.webp",
+      "before_bytes": 19590,
+      "after_bytes": 12628,
+      "before_dimensions": [
+        1100,
+        619
+      ],
+      "after_dimensions": [
+        1000,
+        563
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 43.76
+    },
+    {
+      "original": "/assets/services/x02.webp",
+      "optimized": "/assets/services/x02.webp",
+      "before_bytes": 38152,
+      "after_bytes": 25792,
+      "before_dimensions": [
+        1100,
+        424
+      ],
+      "after_dimensions": [
+        1000,
+        385
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 39.58
+    },
+    {
+      "original": "/assets/services/x03.webp",
+      "optimized": "/assets/services/x03.webp",
+      "before_bytes": 90562,
+      "after_bytes": 55904,
+      "before_dimensions": [
+        1100,
+        732
+      ],
+      "after_dimensions": [
+        1000,
+        665
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.53
+    },
+    {
+      "original": "/assets/services/x04.webp",
+      "optimized": "/assets/services/x04.webp",
+      "before_bytes": 118462,
+      "after_bytes": 76138,
+      "before_dimensions": [
+        980,
+        617
+      ],
+      "after_dimensions": [
+        980,
+        617
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.33
+    },
+    {
+      "original": "/assets/services/x05.webp",
+      "optimized": "/assets/services/x05.webp",
+      "before_bytes": 74950,
+      "after_bytes": 62108,
+      "before_dimensions": [
+        768,
+        432
+      ],
+      "after_dimensions": [
+        768,
+        432
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.93
+    },
+    {
+      "original": "/assets/services/x06.webp",
+      "optimized": "/assets/services/x06.webp",
+      "before_bytes": 63758,
+      "after_bytes": 38796,
+      "before_dimensions": [
+        1100,
+        731
+      ],
+      "after_dimensions": [
+        1000,
+        665
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.52
+    },
+    {
+      "original": "/assets/services/x07.webp",
+      "optimized": "/assets/services/x07.webp",
+      "before_bytes": 79224,
+      "after_bytes": 49928,
+      "before_dimensions": [
+        1100,
+        497
+      ],
+      "after_dimensions": [
+        1000,
+        452
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.28
+    },
+    {
+      "original": "/assets/services/x08.webp",
+      "optimized": "/assets/services/x08.webp",
+      "before_bytes": 274210,
+      "after_bytes": 176666,
+      "before_dimensions": [
+        1100,
+        619
+      ],
+      "after_dimensions": [
+        1000,
+        563
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 34.98
+    },
+    {
+      "original": "/assets/services/x09.webp",
+      "optimized": "/assets/services/x09.webp",
+      "before_bytes": 216972,
+      "after_bytes": 177560,
+      "before_dimensions": [
+        1000,
+        714
+      ],
+      "after_dimensions": [
+        1000,
+        714
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 36.37
+    },
+    {
+      "original": "/assets/services/x10.webp",
+      "optimized": "/assets/services/x10.webp",
+      "before_bytes": 75454,
+      "after_bytes": 51442,
+      "before_dimensions": [
+        1100,
+        733
+      ],
+      "after_dimensions": [
+        1000,
+        666
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 38.01
+    },
+    {
+      "original": "/assets/services/x11.webp",
+      "optimized": "/assets/services/x11.webp",
+      "before_bytes": 66230,
+      "after_bytes": 42806,
+      "before_dimensions": [
+        1100,
+        733
+      ],
+      "after_dimensions": [
+        1000,
+        666
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 37.6
+    },
+    {
+      "original": "/assets/services/x12.webp",
+      "optimized": "/assets/services/x12.webp",
+      "before_bytes": 152830,
+      "after_bytes": 91462,
+      "before_dimensions": [
+        1100,
+        733
+      ],
+      "after_dimensions": [
+        1000,
+        666
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 35.74
+    },
+    {
+      "original": "/assets/services/x13.webp",
+      "optimized": "/assets/services/x13.webp",
+      "before_bytes": 27956,
+      "after_bytes": 17836,
+      "before_dimensions": [
+        1100,
+        733
+      ],
+      "after_dimensions": [
+        1000,
+        666
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 41.88
+    },
+    {
+      "original": "/assets/technica-logo.png",
+      "optimized": "/assets/technica-logo.webp",
+      "before_bytes": 26032,
+      "after_bytes": 8166,
+      "before_dimensions": [
+        200,
+        119
+      ],
+      "after_dimensions": [
+        200,
+        119
+      ],
+      "alpha_preserved": true,
+      "psnr_db_at_output_size": 33.58
+    },
+    {
+      "original": "/assets/technical-review.jpg",
+      "optimized": "/assets/technical-review.webp",
+      "before_bytes": 154021,
+      "after_bytes": 55072,
+      "before_dimensions": [
+        1200,
+        801
+      ],
+      "after_dimensions": [
+        1200,
+        801
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 40.05
+    },
+    {
+      "original": "/assets/workshop.jpg",
+      "optimized": "/assets/workshop.webp",
+      "before_bytes": 167109,
+      "after_bytes": 70346,
+      "before_dimensions": [
+        1200,
+        800
+      ],
+      "after_dimensions": [
+        1200,
+        800
+      ],
+      "alpha_preserved": false,
+      "psnr_db_at_output_size": 39.43
+    }
+  ],
+  "baseline": {
+    "dist_bytes": 28414246,
+    "dist_files": 349,
+    "zip_bytes": 23692482,
+    "images_bytes": 22689619
+  },
+  "current": {
+    "dist_bytes": 15061290,
+    "dist_files": 349,
+    "images_bytes": 9280923
+  },
+  "cloudflare_zip_bytes": 10719582,
+  "previous_cloudflare_zip_bytes": 23692482
+}

@@ -1,0 +1,871 @@
+[
+  {
+    "name": "HAZID & HAZOP Studies",
+    "path": "process-safety-risk/hazid-hazop",
+    "image": "/assets/service-photos/hazop-industrial.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "LOPA & SIL Services",
+    "path": "process-safety-risk/lopa-sil",
+    "image": "/assets/services/p26.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Quantitative Risk & Consequence Studies",
+    "path": "process-safety-risk/quantitative-risk",
+    "image": "/assets/service-photos/qra-industrial.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Bowtie & Barrier Management",
+    "path": "process-safety-risk/bowtie-barrier-management",
+    "image": "/assets/service-photos/bowtie-industrial.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Process Safety Management & Readiness",
+    "path": "process-safety-risk/process-safety-management",
+    "image": "/assets/services/p36.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Process Engineering & Technical Reviews",
+    "path": "engineering-consultancy/process-engineering-reviews",
+    "image": "/assets/services/p10.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Relief & Flare Studies",
+    "path": "engineering-consultancy/relief-flare",
+    "image": "/assets/services/p31.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "HSE & Integrated Management Systems",
+    "path": "hse-management-systems/integrated-management-systems",
+    "image": "/assets/services/h09.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Auditing & Gap Assessments",
+    "path": "hse-management-systems/auditing-gap-assessments",
+    "image": "/assets/services/h08.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Competency Frameworks & Assessment Support",
+    "path": "competency-assessment-assurance/competency-frameworks",
+    "image": "/assets/services/h07.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Learning Programme Design",
+    "path": "professional-learning-development/learning-programme-design",
+    "image": "/assets/services/e07.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Competency Assessment & Assurance",
+    "path": "competency-assessment-assurance/competency-assurance",
+    "image": "/assets/services/h06.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Custom Applications & Workflow Tools",
+    "path": "software-solutions/custom-applications",
+    "image": "/assets/services/p37.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Dashboards, Reporting & Automation",
+    "path": "software-solutions/dashboards-automation",
+    "image": "/assets/services/p32.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "HAZID Study",
+    "path": "process-safety-risk/hazid-study",
+    "image": "/assets/services/p01.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "HAZOP Study",
+    "path": "process-safety-risk/hazop-study",
+    "image": "/assets/service-photos/hazop-industrial.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Hazardous Area Classification (HAC)",
+    "path": "process-safety-risk/hazardous-area-classification-hac",
+    "image": "/assets/services/p03.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Bowtie Assessments",
+    "path": "process-safety-risk/bowtie-assessments",
+    "image": "/assets/service-photos/bowtie-industrial.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Construction Risk Assessments (CRA)",
+    "path": "hse-management-systems/construction-risk-assessments-cra",
+    "image": "/assets/services/p05.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Constructability Reviews",
+    "path": "engineering-consultancy/constructability-reviews",
+    "image": "/assets/services/p06.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Design Change Review",
+    "path": "engineering-consultancy/design-change-review",
+    "image": "/assets/services/p37.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Electrical SAFOP / ELSOR",
+    "path": "engineering-consultancy/electrical-safop-elsor",
+    "image": "/assets/services/p08.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "CHAZOP",
+    "path": "process-safety-risk/chazop",
+    "image": "/assets/services/p09.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Loss Prevention Engineering",
+    "path": "engineering-consultancy/loss-prevention-engineering",
+    "image": "/assets/services/p10.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Design & Operations Safety Reviews, Audits & Verification",
+    "path": "hse-management-systems/design-operations-safety-reviews-audits-verification",
+    "image": "/assets/services/p11.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Firewater Systems Design & Engineering",
+    "path": "engineering-consultancy/firewater-systems-design-engineering",
+    "image": "/assets/services/p12.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Quantitative Risk Assessment (QRA)",
+    "path": "process-safety-risk/quantitative-risk-assessment-qra",
+    "image": "/assets/service-photos/qra-industrial.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Escape, Evacuation & Rescue Analysis (EERA)",
+    "path": "process-safety-risk/escape-evacuation-rescue-analysis-eera",
+    "image": "/assets/services/p14.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Firewater Adequacy & Firefighting Facilities Studies",
+    "path": "engineering-consultancy/firewater-adequacy-firefighting-facilities-studies",
+    "image": "/assets/services/p15.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Layers of Protection Analysis (LOPA)",
+    "path": "process-safety-risk/layers-of-protection-analysis-lopa",
+    "image": "/assets/services/p16.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Emergency Systems Survivability Assessment",
+    "path": "process-safety-risk/emergency-systems-survivability-assessment",
+    "image": "/assets/services/p17.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Temporary Refuge Impairment Assessment (TRIA)",
+    "path": "process-safety-risk/temporary-refuge-impairment-assessment-tria",
+    "image": "/assets/services/p18.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Non-Hydrocarbon Hazard Assessments",
+    "path": "process-safety-risk/non-hydrocarbon-hazard-assessments",
+    "image": "/assets/services/p19.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Ship Collision Study",
+    "path": "process-safety-risk/ship-collision-study",
+    "image": "/assets/services/p20.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Fire & Gas Mapping \u2014 Geographic & Risk-Based",
+    "path": "engineering-consultancy/fire-gas-mapping-geographic-risk-based",
+    "image": "/assets/services/p21.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Formal Safety Assessment (FSA)",
+    "path": "process-safety-risk/formal-safety-assessment-fsa",
+    "image": "/assets/services/p22.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Active & Passive Fire Protection Design",
+    "path": "engineering-consultancy/active-passive-fire-protection-design",
+    "image": "/assets/services/p23.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Environmental Impact Assessment (EIA)",
+    "path": "hse-management-systems/environmental-impact-assessment-eia",
+    "image": "/assets/services/p24.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Asset Integrity Consultation",
+    "path": "asset-integrity-reliability/asset-integrity-consultation",
+    "image": "/assets/services/p25.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "SIL Determination",
+    "path": "process-safety-risk/sil-determination",
+    "image": "/assets/services/p26.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Fire & Explosion Risk Analysis (FERA)",
+    "path": "process-safety-risk/fire-explosion-risk-analysis-fera",
+    "image": "/assets/service-photos/fera-industrial-v2.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Consequence, Dispersion & CFD Modelling",
+    "path": "process-safety-risk/consequence-dispersion-cfd-modelling",
+    "image": "/assets/services/p28.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Occupied Building Risk Assessment (OBRA)",
+    "path": "process-safety-risk/occupied-building-risk-assessment-obra",
+    "image": "/assets/services/p29.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Layout Optimization & Siting",
+    "path": "engineering-consultancy/layout-optimization-siting",
+    "image": "/assets/services/p30.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Relief & Flare System Design / Verification",
+    "path": "engineering-consultancy/relief-flare-system-design-verification",
+    "image": "/assets/services/p31.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Alarm Management & Rationalization",
+    "path": "engineering-consultancy/alarm-management-rationalization",
+    "image": "/assets/services/p32.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Human Factors Engineering (HFE)",
+    "path": "engineering-consultancy/human-factors-engineering-hfe",
+    "image": "/assets/services/p33.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "SIMOPS Risk Assessment",
+    "path": "hse-management-systems/simops-risk-assessment",
+    "image": "/assets/services/p34.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Pre-Startup Safety Review (PSSR)",
+    "path": "process-safety-risk/pre-startup-safety-review-pssr",
+    "image": "/assets/services/p35.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "PSM Gap Assessment",
+    "path": "process-safety-risk/psm-gap-assessment",
+    "image": "/assets/services/p36.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Management of Change (MOC) Program Design",
+    "path": "process-safety-risk/management-of-change-moc-program-design",
+    "image": "/assets/services/p37.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Safety Case / COMAH & ALARP Demonstration",
+    "path": "process-safety-risk/safety-case-comah-alarp-demonstration",
+    "image": "/assets/services/p38.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Emergency Response Planning & Drills",
+    "path": "hse-management-systems/emergency-response-planning-drills",
+    "image": "/assets/services/p39.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Independent Incident Investigation & Root Cause Analysis",
+    "path": "hse-management-systems/independent-incident-investigation-root-cause-analysis",
+    "image": "/assets/services/p40.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Risk-Based Inspection (RBI) & Corrosion Management",
+    "path": "asset-integrity-reliability/risk-based-inspection-rbi-corrosion-management",
+    "image": "/assets/services/p41.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Pipeline Risk Assessment & Integrity",
+    "path": "asset-integrity-reliability/pipeline-risk-assessment-integrity",
+    "image": "/assets/services/p42.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "ATEX / DSEAR Compliance & Ex Inspections",
+    "path": "process-safety-risk/atex-dsear-compliance-ex-inspections",
+    "image": "/assets/services/p43.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Dust Hazard Analysis (DHA)",
+    "path": "process-safety-risk/dust-hazard-analysis-dha",
+    "image": "/assets/services/p44.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Oxygen Deficiency Hazard (ODH) Assessment",
+    "path": "process-safety-risk/oxygen-deficiency-hazard-odh-assessment",
+    "image": "/assets/services/p45.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Risk Graph Analysis",
+    "path": "process-safety-risk/risk-graph-analysis",
+    "image": "/assets/services/p46.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "SECE Identification & Performance Standards",
+    "path": "process-safety-risk/sece-identification-performance-standards",
+    "image": "/assets/services/p47.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Physical Barriers Assessment",
+    "path": "process-safety-risk/physical-barriers-assessment",
+    "image": "/assets/services/p48.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Reliability Centred Maintenance (RCM) Study",
+    "path": "asset-integrity-reliability/reliability-centred-maintenance-rcm-study",
+    "image": "/assets/services/h04.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Safety Case Development & Operational Alignment",
+    "path": "process-safety-risk/safety-case-development-operational-alignment",
+    "image": "/assets/services/h03.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "PSM Strategy, Verification & Implementation",
+    "path": "process-safety-risk/psm-strategy-verification-implementation",
+    "image": "/assets/services/h04.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Design HSE Case",
+    "path": "process-safety-risk/design-hse-case",
+    "image": "/assets/services/h05.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Operations HSE Case",
+    "path": "process-safety-risk/operations-hse-case",
+    "image": "/assets/services/h06.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "HSE Case Implementation & Operationalization",
+    "path": "process-safety-risk/hse-case-implementation-operationalization",
+    "image": "/assets/services/h07.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "HSE Case Audits & Verification",
+    "path": "process-safety-risk/hse-case-audits-verification",
+    "image": "/assets/services/h08.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "HSE Management System Implementation Audits & Verification",
+    "path": "hse-management-systems/hse-management-system-implementation-audits-verification",
+    "image": "/assets/services/h09.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Operations & Maintenance Manual Audits & Verification",
+    "path": "hse-management-systems/operations-maintenance-manual-audits-verification",
+    "image": "/assets/services/h10.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Lessons Learnt Management",
+    "path": "hse-management-systems/lessons-learnt-management",
+    "image": "/assets/services/h11.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Regulatory Compliance Management",
+    "path": "hse-management-systems/regulatory-compliance-management",
+    "image": "/assets/services/h12.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Mandatory Control Framework (MCF)",
+    "path": "hse-management-systems/mandatory-control-framework-mcf",
+    "image": "/assets/services/h13.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Industrial Acoustics & Noise Control",
+    "path": "hse-management-systems/industrial-acoustics-noise-control",
+    "image": "/assets/services/h16.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Environmental Noise Studies",
+    "path": "hse-management-systems/environmental-noise-studies",
+    "image": "/assets/services/h17.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "ISO Consultation",
+    "path": "hse-management-systems/iso-consultation",
+    "image": "/assets/services/m01.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "ISO 9001 Quality Management System",
+    "path": "hse-management-systems/iso-9001-quality-management-system",
+    "image": "/assets/services/m02.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "ISO 45001 Occupational Health & Safety Management System",
+    "path": "hse-management-systems/iso-45001-occupational-health-safety-management-system",
+    "image": "/assets/services/m03.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "ISO 14001 Environmental Management System",
+    "path": "hse-management-systems/iso-14001-environmental-management-system",
+    "image": "/assets/services/m04.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "ISO/IEC 17025 Laboratory Competence Support",
+    "path": "hse-management-systems/iso-iec-17025-laboratory-competence-support",
+    "image": "/assets/services/m05.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "ISO 50001 Energy Management System",
+    "path": "energy-optimization/iso-50001-energy-management-system",
+    "image": "/assets/services/e04.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "ISO/IEC 27001 Information Security Management",
+    "path": "hse-management-systems/iso-iec-27001-information-security-management",
+    "image": "/assets/services/m07.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "ISO 22301 Business Continuity Management",
+    "path": "hse-management-systems/iso-22301-business-continuity-management",
+    "image": "/assets/services/m08.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "ISO 31000 Risk Management Framework",
+    "path": "hse-management-systems/iso-31000-risk-management-framework",
+    "image": "/assets/services/m09.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Document Control & Records Management",
+    "path": "hse-management-systems/document-control-records-management",
+    "image": "/assets/services/m10.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "ISO/IEC 17020 Inspection Body Support",
+    "path": "hse-management-systems/iso-iec-17020-inspection-body-support",
+    "image": "/assets/services/m01.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "ISO 22000 Food Safety Management",
+    "path": "hse-management-systems/iso-22000-food-safety-management",
+    "image": "/assets/services/m01.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Solar PV Design & Detailed Engineering",
+    "path": "energy-optimization/solar-pv-design-detailed-engineering",
+    "image": "/assets/services/e01.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Energy Management & Energy Efficiency Solutions",
+    "path": "energy-optimization/energy-management-energy-efficiency-solutions",
+    "image": "/assets/services/e02.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Energy Consumption Visibility Studies",
+    "path": "energy-optimization/energy-consumption-visibility-studies",
+    "image": "/assets/services/e03.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Generation Options Analysis",
+    "path": "energy-optimization/generation-options-analysis",
+    "image": "/assets/services/e04.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Energy Project Identification & Prioritisation",
+    "path": "energy-optimization/energy-project-identification-prioritisation",
+    "image": "/assets/services/e05.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Lifecycle Cost Analysis (LCCA)",
+    "path": "energy-optimization/lifecycle-cost-analysis-lcca",
+    "image": "/assets/services/e06.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Employee Training for Energy Management",
+    "path": "professional-learning-development/employee-training-for-energy-management",
+    "image": "/assets/services/e07.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Energy Audits",
+    "path": "energy-optimization/energy-audits",
+    "image": "/assets/services/e08.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Integrated EPC & Project Delivery",
+    "path": "epc-projects-supply-chain/integrated-epc-project-delivery",
+    "image": "/assets/services/x01.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Procurement & Supply Chain Management",
+    "path": "epc-projects-supply-chain/procurement-supply-chain-management",
+    "image": "/assets/services/x02.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Electrical Equipment Supply",
+    "path": "epc-projects-supply-chain/electrical-equipment-supply",
+    "image": "/assets/services/x03.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Mechanical Equipment Supply",
+    "path": "epc-projects-supply-chain/mechanical-equipment-supply",
+    "image": "/assets/services/x04.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Instrumentation & Control Systems Supply",
+    "path": "epc-projects-supply-chain/instrumentation-control-systems-supply",
+    "image": "/assets/services/x05.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Specialised Equipment Supply",
+    "path": "epc-projects-supply-chain/specialised-equipment-supply",
+    "image": "/assets/services/x06.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Integrated Construction & Site Management",
+    "path": "epc-projects-supply-chain/integrated-construction-site-management",
+    "image": "/assets/services/x07.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Civil & Structural Construction",
+    "path": "epc-projects-supply-chain/civil-structural-construction",
+    "image": "/assets/services/x08.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Mechanical & Piping Construction",
+    "path": "epc-projects-supply-chain/mechanical-piping-construction",
+    "image": "/assets/services/x09.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Electrical & Instrumentation Construction",
+    "path": "epc-projects-supply-chain/electrical-instrumentation-construction",
+    "image": "/assets/services/x10.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Construction Fleet & Site Resources",
+    "path": "epc-projects-supply-chain/construction-fleet-site-resources",
+    "image": "/assets/services/x11.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Construction HSE Delivery",
+    "path": "epc-projects-supply-chain/construction-hse-delivery",
+    "image": "/assets/services/x12.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Project QA/QC & Handover Documentation",
+    "path": "epc-projects-supply-chain/project-qa-qc-handover-documentation",
+    "image": "/assets/services/h08.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Cathodic Protection Assessment",
+    "path": "asset-integrity-reliability/cathodic-protection-assessment",
+    "image": "/assets/services/p41.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Corrosion Assessment",
+    "path": "asset-integrity-reliability/corrosion-assessment",
+    "image": "/assets/services/p41.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Electrical, Instrumentation & Mechanical Calibration",
+    "path": "asset-integrity-reliability/electrical-instrumentation-mechanical-calibration",
+    "image": "/assets/services/h04.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Asset Integrity Management (AIM) Gap Assessment",
+    "path": "asset-integrity-reliability/asset-integrity-management-aim-gap-assessment",
+    "image": "/assets/services/p25.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Risk Management Framework Implementation",
+    "path": "professional-learning-development/risk-management-framework-implementation",
+    "image": "/assets/services/m09.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "MOC Procedure Implementation",
+    "path": "professional-learning-development/moc-procedure-implementation",
+    "image": "/assets/services/p37.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Front-Line HSE Case Implementation",
+    "path": "professional-learning-development/front-line-hse-case-implementation",
+    "image": "/assets/services/h07.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Emergency Response Exercises & Drills",
+    "path": "professional-learning-development/emergency-response-exercises-drills",
+    "image": "/assets/services/p39.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Construction HSE Awareness & Safety Talks",
+    "path": "professional-learning-development/construction-hse-awareness-safety-talks",
+    "image": "/assets/services/x12.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Safety-Critical Role Profiles",
+    "path": "competency-assessment-assurance/safety-critical-role-profiles",
+    "image": "/assets/services/h07.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Competency Assessment & Gap Analysis",
+    "path": "competency-assessment-assurance/competency-gap-analysis",
+    "image": "/assets/services/h08.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Assessment Methods & Evidence Tools",
+    "path": "competency-assessment-assurance/assessment-evidence-tools",
+    "image": "/assets/services/m10.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Accredited & Approved Programmes",
+    "path": "professional-learning-development/accredited-approved-programmes",
+    "image": "/assets/services/m01.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Professional Certification Preparation",
+    "path": "professional-learning-development/professional-certification-preparation",
+    "image": "/assets/services/m08.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Technical & Specialist Training",
+    "path": "professional-learning-development/technical-specialist-training",
+    "image": "/assets/services/p06.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Continuing Professional Development (CPD) Programmes",
+    "path": "professional-learning-development/cpd-programmes",
+    "image": "/assets/services/e07.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Leadership & Management Development",
+    "path": "professional-learning-development/leadership-management-development",
+    "image": "/assets/services/h06.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Awareness & Foundation Courses",
+    "path": "professional-learning-development/awareness-foundation-courses",
+    "image": "/assets/services/h07.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Refresher Courses",
+    "path": "professional-learning-development/refresher-courses",
+    "image": "/assets/services/h05.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "Customised Corporate Training",
+    "path": "professional-learning-development/customised-corporate-training",
+    "image": "/assets/services/e07.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "process-safety-risk",
+    "image": "/assets/service-photos/qra-industrial.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "engineering-consultancy",
+    "image": "/assets/services/p12.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "hse-management-systems",
+    "image": "/assets/services/h09.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "asset-integrity-reliability",
+    "image": "/assets/services/p41.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "epc-projects-supply-chain",
+    "image": "/assets/services/x07.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "energy-optimization",
+    "image": "/assets/services/e01.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "professional-learning-development",
+    "image": "/assets/services/e07.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "competency-assessment-assurance",
+    "image": "/assets/services/h07.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "software-solutions",
+    "image": "/assets/services/p32.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "programme-process-safety",
+    "image": "/assets/service-photos/hazop-industrial.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "programme-engineering",
+    "image": "/assets/services/p06.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "programme-hse-systems",
+    "image": "/assets/services/h09.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "programme-competency-assessment",
+    "image": "/assets/services/h07.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "app-psm-performance",
+    "image": "/assets/services/p32.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "app-hse-insight",
+    "image": "/assets/services/h04.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "app-moc-rfc",
+    "image": "/assets/services/p37.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "app-bowtie-studio",
+    "image": "/assets/service-photos/bowtie-industrial.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "app-action-tracker",
+    "image": "/assets/services/h08.webp",
+    "style": "photographic service context"
+  },
+  {
+    "name": "app-assurix",
+    "image": "/assets/services/h07.webp",
+    "style": "photographic service context"
+  }
+]

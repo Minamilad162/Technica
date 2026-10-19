@@ -1,0 +1,19 @@
+{
+  "name": "technica-consult",
+  "version": "1.13.15",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "node scripts/check-image-assets.mjs && vite build && vite build --ssr src/main.jsx --outDir .ssr && node scripts/prerender.mjs",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "lucide-react": "^0.468.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.0"
+  }
+}
