@@ -66,7 +66,7 @@ function FooterShowcase(){
         </div>
         <div className="tech-footer-contact-item tech-footer-contact-phones">
           <span className="tech-footer-contact-icon"><Icon name="Phone" size={29}/></span>
-          {officePhones.map(phone=><a href={'tel:'+phone} key={phone}>{formatPhone(phone)}</a>)}
+          <div className="tech-footer-phone-list">{officePhones.map(phone=><a href={'tel:'+phone} key={phone}>{formatPhone(phone)}</a>)}</div>
         </div>
       </div>
     </div>
