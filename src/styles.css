@@ -48,3 +48,11 @@
 /* Contact email list: keep the same compact contact styling */
 .contact-email-list{display:flex;flex-direction:column;align-items:flex-start;gap:9px}
 .contact-email-list .contact-method{margin:0;max-width:100%;overflow-wrap:anywhere}
+
+/* Shared title for BOTH accreditations. Individual tags are intentionally not repeated. */
+.approved-accreditation-heading{margin-top:1.7rem;display:flex;align-items:center;gap:16px}
+.approved-accreditation-heading h3{margin:0;color:#063b43;font-size:clamp(1.2rem,2.15vw,1.7rem);letter-spacing:-.025em;font-weight:700}
+.approved-accreditation-heading::after{content:"";height:1px;background:linear-gradient(90deg,rgba(6,103,105,.24),transparent);flex:1}
+.approved-accreditation-heading + .approved-accreditation-strip{margin-top:1.05rem}
+.approved-accreditation-strip .approved-accreditor-card{justify-content:center}
+@media(max-width:650px){.approved-accreditation-heading{margin-top:1.2rem}.approved-accreditation-heading + .approved-accreditation-strip{margin-top:.8rem}}

@@ -194,3 +194,11 @@ html[data-motion=off] .headline-word{opacity:1;transform:none;filter:none}@media
 @media(max-width:600px){.footer-contact-band{gap:20px;padding:25px 0;font-size:14px}.footer-contact-band .office-details{grid-template-columns:1fr;gap:20px}.footer-contact-band .office-phones{gap:12px}.footer-contact-band .office-address address>span{white-space:normal}}
 
 .software-app[id]{scroll-margin-top:110px}
+
+
+/* Concise website notices — v1.13.16 */
+.legal-content.legal-content-refined{max-width:840px;padding-top:36px;padding-bottom:72px}
+.legal-content.legal-content-refined h2{font-family:'DM Sans',Arial,sans-serif;font-size:clamp(20px,2.2vw,24px);font-weight:700;line-height:1.3;margin:0 0 10px;color:#053f45}
+.legal-content.legal-content-refined p{font-size:16px;line-height:1.85;color:#49656a;margin:0}
+.legal-content.legal-content-refined h2:not(:first-child){padding-top:24px;margin-top:27px;border-top:1px solid rgba(4,76,83,.13)}
+@media(max-width:650px){.legal-content.legal-content-refined{padding-top:24px;padding-bottom:50px}.legal-content.legal-content-refined h2:not(:first-child){margin-top:20px;padding-top:20px}}
