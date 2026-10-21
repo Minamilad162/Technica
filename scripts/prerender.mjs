@@ -5,7 +5,9 @@ import path from 'node:path';
 import {Site} from '../.ssr/main.js';
 import {allRoutes,services,details,industries,programmes,detailPath} from '../src/data.js';
 const root=path.resolve('dist');
-const shell=fs.readFileSync(path.join(root,'index.html'),'utf8');
+// The SPA shell has a default canonical for hosts which do not run prerender.
+// Drop it here so each generated route receives exactly one route-specific canonical/og:url.
+const shell=fs.readFileSync(path.join(root,'index.html'),'utf8').replace(/<link rel="canonical" href="https:\/\/technicaconsult\.com\/"\/>/g,'').replace(/<meta property="og:url" content="https:\/\/technicaconsult\.com\/"\/>/g,'');
 const manifest=JSON.parse(fs.readFileSync('.openai/hosting.json','utf8'));
 // TECHNICA CONSULT public canonical host; never use the preview/staging domain.
 const origin='https://technicaconsult.com';

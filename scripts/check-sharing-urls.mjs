@@ -12,6 +12,8 @@ for(const route of allRoutes){
  const canonical=publicOrigin+(route==='/'?'/':route+'/');
  assert.ok(html.includes('<link rel="canonical" href="'+canonical+'"/>'),'Incorrect canonical in '+file);
  assert.ok(html.includes('<meta property="og:url" content="'+canonical+'"/>'),'Incorrect og:url in '+file);
+ assert.equal((html.match(/<link rel="canonical" /g)||[]).length,1,'Duplicate canonicals in '+file);
+ assert.equal((html.match(/<meta property="og:url" /g)||[]).length,1,'Duplicate Open Graph urls in '+file);
  assert.ok(!/chatgpt\.site|nimblehippo128/i.test(html),'Preview domain in '+file);
 }
 const sitemap=content('sitemap.xml'),robots=content('robots.txt');
