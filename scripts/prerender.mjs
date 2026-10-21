@@ -7,7 +7,8 @@ import {allRoutes,services,details,industries,programmes,detailPath} from '../sr
 const root=path.resolve('dist');
 const shell=fs.readFileSync(path.join(root,'index.html'),'utf8');
 const manifest=JSON.parse(fs.readFileSync('.openai/hosting.json','utf8'));
-const origin=process.env.SITE_ORIGIN || 'https://technica-consult.nimblehippo128.chatgpt.site';
+// TECHNICA CONSULT public canonical host; never use the preview/staging domain.
+const origin='https://technicaconsult.com';
 const titles={'/':'Engineering, Process Safety & Competency','/about':'About Us','/services':'Our Expertise','/industries':'Industries','/learning':'Professional Learning & Development','/learning/programmes':'Learning Programmes','/learning/corporate':'Corporate Learning','/resources':'Resources','/resources/company-overview':'Company Overview','/certificates':'Certificates','/energy-optimization':'Energy Optimization','/services/energy-optimization':'Energy Optimization','/software-solutions':'Software Solutions','/services/learning-competency':'Professional Learning & Development','/services/learning-competency/competency-frameworks':'Competency Frameworks & Assessment Support','/contact':'Contact','/privacy':'Privacy Notice','/terms':'Website Terms'};
 const descriptions={};
 for(const s of services){titles['/services/'+s.slug]=s.name;descriptions['/services/'+s.slug]=s.description}
@@ -28,7 +29,7 @@ for(const route of [...allRoutes,'/404']){
  const title=escape((titles[route]||'Page Not Found')+' — TECHNICA CONSULT');
  const description=escape(descriptions[route]||'Specialist engineering, process safety, management systems and competency development for industrial organisations.');
  const canonical=origin+(route==='/'?'/':route+'/');
- const output=shell.replace('<div id="root"></div>',`<div id="root">${html}</div>`).replace(/<title>.*?<\/title>/,`<title>${title}</title>`).replace(/<meta name="description" content="[^"]*"\/>/,`<meta name="description" content="${description}"/>`).replace('</head>',`<link rel="canonical" href="${canonical}"/><meta property="og:title" content="${title}"/><meta property="og:description" content="${description}"/><meta property="og:type" content="website"/><meta property="og:image" content="${origin}/assets/industrial-vibrant.webp"/><meta name="twitter:card" content="summary_large_image"/><link rel="icon" href="/assets/favicon.png" type="image/png"/>${route==='/404'?'<meta name="robots" content="noindex"/>':''}</head>`);
+ const output=shell.replace('<div id="root"></div>',`<div id="root">${html}</div>`).replace(/<title>.*?<\/title>/,`<title>${title}</title>`).replace(/<meta name="description" content="[^"]*"\/>/,`<meta name="description" content="${description}"/>`).replace('</head>',`<link rel="canonical" href="${canonical}"/><meta property="og:url" content="${canonical}"/><meta property="og:title" content="${title}"/><meta property="og:description" content="${description}"/><meta property="og:type" content="website"/><meta property="og:image" content="${origin}/assets/industrial-vibrant.webp"/><meta name="twitter:card" content="summary_large_image"/><link rel="icon" href="/assets/favicon.png" type="image/png"/>${route==='/404'?'<meta name="robots" content="noindex"/>':''}</head>`);
  const out=route==='/404'?path.join(root,'404.html'):path.join(root,route.slice(1),'index.html');
  fs.mkdirSync(path.dirname(out),{recursive:true});fs.writeFileSync(out,output);
 }
