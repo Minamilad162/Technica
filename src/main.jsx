@@ -113,15 +113,13 @@ const approvedCourses = [
     id: 'iosh-leading-safely',
     title: 'IOSH Approved Leading Safely with TECHNICA CONSULT',
     summary: 'A focused course for leaders and decision-makers, designed to strengthen visible commitment, understanding of responsibilities and practical safety leadership.',
-    audience: 'For leaders and senior decision-makers',
-    badge: 'IOSH Approved course'
+    audience: 'For leaders and senior decision-makers'
   },
   {
     id: 'iosh-managing-safely',
     title: 'IOSH Approved Managing Safely® course with TECHNICA CONSULT',
     summary: 'A practical programme for managers and supervisors covering hazard awareness, risk control and everyday responsibilities for safer work.',
-    audience: 'For managers and supervisors',
-    badge: 'IOSH Approved course'
+    audience: 'For managers and supervisors'
   }
 ];
 function ApprovedCoursesSection(){
@@ -140,10 +138,11 @@ function ApprovedCoursesSection(){
           <p>Additional professional-recognition branding displayed for approved-course presentation.</p>
         </article>
       </div>
+      <div className="approved-courses-heading"><h3>IOSH Approved Courses</h3></div>
       <div className="approved-courses-grid">
         {approvedCourses.map(course=><article className="approved-course-card" key={course.id}>
-          <div className="approved-course-top"><span className="approved-course-pill">{course.badge}</span><span className="approved-course-audience">{course.audience}</span></div>
-          <h3>{course.title}</h3>
+          <div className="approved-course-top"><span className="approved-course-audience">{course.audience}</span></div>
+          <h4>{course.title.replace(/^IOSH Approved\s+/, '')}</h4>
           <p>{course.summary}</p>
           <div className="approved-course-actions">
             <Link className="text-link" to={contact(course.title,'Individual course enquiry')}>Enquire about this course<Icon name="ArrowUpRight" size={18}/></Link>

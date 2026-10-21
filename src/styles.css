@@ -56,3 +56,14 @@
 .approved-accreditation-heading + .approved-accreditation-strip{margin-top:1.05rem}
 .approved-accreditation-strip .approved-accreditor-card{justify-content:center}
 @media(max-width:650px){.approved-accreditation-heading{margin-top:1.2rem}.approved-accreditation-heading + .approved-accreditation-strip{margin-top:.8rem}}
+
+/* Shared IOSH title follows the same hierarchy as the Accreditation section. */
+.approved-courses-heading{display:flex;align-items:center;gap:16px;margin-top:clamp(28px,3vw,44px)}
+.approved-courses-heading h3{margin:0;color:#063b43;font-size:clamp(1.2rem,2.15vw,1.7rem);letter-spacing:-.025em;line-height:1.3;font-weight:700}
+.approved-courses-heading::after{content:"";height:1px;flex:1;background:linear-gradient(90deg,rgba(6,103,105,.24),transparent)}
+.approved-courses-heading + .approved-courses-grid{margin-top:1.05rem}
+.approved-course-card .approved-course-top{min-height:24px}
+.approved-course-card .approved-course-audience{display:inline-flex;align-items:center;gap:9px;color:#557174;font-size:.92rem;font-weight:600}
+.approved-course-card .approved-course-audience::before{content:"";width:7px;height:7px;flex:none;border-radius:50%;background:#00bcae}
+.approved-course-card h4{margin:0;color:#062b32;font-size:clamp(1.14rem,1.45vw,1.33rem);line-height:1.36;font-weight:700;letter-spacing:-.015em}
+@media(max-width:650px){.approved-courses-heading{margin-top:26px}.approved-courses-heading + .approved-courses-grid{margin-top:.8rem}.approved-course-card h4{font-size:1.14rem}}
