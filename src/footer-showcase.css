@@ -1,4 +1,4 @@
-/* TECHNICA CONSULT v1.13.15 — higher-quality footer background + improved mobile layout. */
+/* TECHNICA CONSULT v1.13.21 — footer contact layout refinements. */
 .technica-redesigned-footer.site-footer{
   position:relative;
   overflow:hidden;
@@ -6,7 +6,7 @@
   color:#fff;
   background:
     linear-gradient(180deg, rgba(0,0,0,.045), rgba(0,0,0,.045)),
-    url('/assets/footer/footer-background-hq.webp') center top / cover no-repeat,
+    url('/assets/footer/footer-background-hq.webp') 46% top / cover no-repeat,
     linear-gradient(180deg,#00474d 0%,#004148 30%,#003c43 56%,#003840 100%);
 }
 .technica-redesigned-footer.site-footer::before,
@@ -22,6 +22,7 @@
 .tech-footer-showcase::after,
 .tech-footer-art{background:transparent}
 .tech-footer-showcase{position:relative;isolation:isolate;overflow:hidden;min-height:270px;color:#f6ffff}
+.tech-footer-showcase::before{content:"";position:absolute;inset:0;z-index:0;pointer-events:none;background:radial-gradient(36% 96% at 54% 58%, rgba(8,122,130,.38) 0%, rgba(8,122,130,.18) 30%, rgba(8,122,130,0) 62%);}
 .tech-footer-showcase::after{display:none!important;content:none!important}
 .tech-footer-art{display:none!important}
 .tech-footer-showcase-inner{
@@ -36,7 +37,7 @@
 .tech-footer-services{margin:0;display:flex;flex-direction:column;gap:5px;color:#effbfb;font:400 clamp(13px,1.26vw,22px)/1.28 'DM Sans',Arial,sans-serif;letter-spacing:-.02em;white-space:nowrap}
 .tech-footer-services span{display:block}
 .tech-footer-services i{font-style:normal;color:#00e3d0;font-weight:500;margin-left:5px}
-.tech-footer-contact-columns{display:grid;grid-template-columns:1.18fr 1.04fr .88fr;min-width:0;align-items:start}
+.tech-footer-contact-columns{display:grid;grid-template-columns:1fr 1.18fr .84fr;min-width:0;align-items:start}
 .tech-footer-contact-item{min-width:0;min-height:118px;display:flex;flex-direction:column;align-items:flex-start;justify-content:flex-start;padding:0 clamp(16px,1.8vw,28px);font:400 clamp(12px,.98vw,17px)/1.45 'DM Sans',Arial,sans-serif;color:#f8ffff}
 .tech-footer-contact-item:first-child{padding-left:0}
 .tech-footer-contact-item + .tech-footer-contact-item{border-left:1px solid rgba(213,250,248,.12)}
@@ -46,6 +47,7 @@
 .tech-footer-contact-item a span{display:block}
 .tech-footer-contact-item a:hover{color:#67f2dd}
 .tech-footer-contact-item a:focus-visible{outline:2px solid #37f1db;outline-offset:5px;border-radius:2px}
+.tech-footer-contact-address a{white-space:nowrap;overflow-wrap:normal;word-break:normal;text-shadow:0 1px 8px rgba(0,0,0,.16)}
 .tech-footer-contact-phones a{white-space:nowrap;font-variant-numeric:tabular-nums}
 .tech-footer-emails{display:flex;flex-direction:column;align-items:flex-start;gap:1px;min-width:0}
 .tech-footer-emails>a{white-space:nowrap;overflow-wrap:normal;word-break:normal}
@@ -68,11 +70,11 @@
 @media(min-width:1850px){.tech-footer-showcase{min-height:300px}.tech-footer-showcase-inner{min-height:300px}}
 @media(max-width:1450px){
   .tech-footer-showcase-inner{grid-template-columns:1fr;gap:26px;min-height:0;padding-top:30px;padding-bottom:34px}
-  .tech-footer-contact-columns{grid-template-columns:1.15fr 1fr .92fr}
+  .tech-footer-contact-columns{grid-template-columns:1fr 1.08fr .9fr}
   .technica-redesigned-footer .footer-grid{grid-template-columns:1.18fr 1fr 1.1fr .8fr;gap:34px}
 }
 @media(max-width:980px){
-  .tech-footer-contact-columns{grid-template-columns:1fr 1fr 1fr}
+  .tech-footer-contact-columns{grid-template-columns:.95fr 1.15fr .9fr}
   .tech-footer-emails>a{white-space:normal;overflow-wrap:anywhere}
   .technica-redesigned-footer .footer-grid{grid-template-columns:1.35fr 1fr 1fr;gap:24px}
   .technica-redesigned-footer .footer-grid>div:last-child{grid-column:2}
@@ -110,6 +112,7 @@
   .tech-footer-contact-icon{width:46px;height:46px;margin:0;grid-column:1;grid-row:1 / span 3;border-width:2px}
   .tech-footer-contact-item a,
   .tech-footer-emails{grid-column:2}
+  .tech-footer-contact-address a{white-space:normal}
   .tech-footer-emails{gap:3px}
   .tech-footer-emails>a{font-size:14px;white-space:normal;overflow-wrap:anywhere}
   .tech-footer-contact-phones a{white-space:normal}
