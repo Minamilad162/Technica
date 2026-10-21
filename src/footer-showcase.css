@@ -1,4 +1,4 @@
-/* TECHNICA CONSULT v1.13.21 — footer contact layout refinements. */
+/* TECHNICA CONSULT v1.13.22 — improved contact spacing, glow masking, and responsive layout. */
 .technica-redesigned-footer.site-footer{
   position:relative;
   overflow:hidden;
@@ -6,7 +6,7 @@
   color:#fff;
   background:
     linear-gradient(180deg, rgba(0,0,0,.045), rgba(0,0,0,.045)),
-    url('/assets/footer/footer-background-hq.webp') 46% top / cover no-repeat,
+    url('/assets/footer/footer-background-hq.webp') 53% top / cover no-repeat,
     linear-gradient(180deg,#00474d 0%,#004148 30%,#003c43 56%,#003840 100%);
 }
 .technica-redesigned-footer.site-footer::before,
@@ -26,9 +26,9 @@
 .tech-footer-showcase::after{display:none!important;content:none!important}
 .tech-footer-art{display:none!important}
 .tech-footer-showcase-inner{
-  position:relative;z-index:1;max-width:1480px;min-height:270px;margin-inline:auto;
-  padding:34px clamp(28px,4vw,70px) 38px;
-  display:grid;grid-template-columns:minmax(0,1.02fr) minmax(0,.98fr);gap:clamp(18px,2.2vw,44px);align-items:center;
+  position:relative;z-index:1;max-width:1840px;min-height:270px;margin-inline:auto;
+  padding:34px clamp(24px,2.75vw,50px) 38px;
+  display:grid;grid-template-columns:minmax(510px,.77fr) minmax(830px,1.23fr);gap:clamp(16px,1.5vw,28px);align-items:center;
 }
 .tech-footer-identity{display:flex;align-items:center;gap:clamp(16px,2vw,34px);min-width:0}
 .tech-footer-identity .footer-brand{display:block;flex:0 0 clamp(128px,9.2vw,178px);width:clamp(128px,9.2vw,178px);height:auto;padding:12px 14px;background:#fff;border-radius:16px;box-shadow:0 8px 26px rgba(0,17,20,.22)}
@@ -37,20 +37,23 @@
 .tech-footer-services{margin:0;display:flex;flex-direction:column;gap:5px;color:#effbfb;font:400 clamp(13px,1.26vw,22px)/1.28 'DM Sans',Arial,sans-serif;letter-spacing:-.02em;white-space:nowrap}
 .tech-footer-services span{display:block}
 .tech-footer-services i{font-style:normal;color:#00e3d0;font-weight:500;margin-left:5px}
-.tech-footer-contact-columns{display:grid;grid-template-columns:1fr 1.18fr .84fr;min-width:0;align-items:start}
-.tech-footer-contact-item{min-width:0;min-height:118px;display:flex;flex-direction:column;align-items:flex-start;justify-content:flex-start;padding:0 clamp(16px,1.8vw,28px);font:400 clamp(12px,.98vw,17px)/1.45 'DM Sans',Arial,sans-serif;color:#f8ffff}
+.tech-footer-contact-columns{position:relative;display:grid;grid-template-columns:minmax(220px,.92fr) minmax(420px,1.55fr) minmax(210px,.78fr);min-width:0;align-items:start;column-gap:6px}
+.tech-footer-contact-item{position:relative;z-index:1;min-width:0;min-height:118px;display:flex;flex-direction:column;align-items:flex-start;justify-content:flex-start;padding:0 clamp(14px,1.5vw,24px);font:400 clamp(12px,.98vw,17px)/1.45 'DM Sans',Arial,sans-serif;color:#f8ffff}
 .tech-footer-contact-item:first-child{padding-left:0}
 .tech-footer-contact-item + .tech-footer-contact-item{border-left:1px solid rgba(213,250,248,.12)}
+.tech-footer-contact-item::before{content:"";position:absolute;inset:-10px 2px -12px 2px;z-index:-1;pointer-events:none;border-radius:22px;opacity:0;background:radial-gradient(140% 175% at 44% 38%,rgba(0,69,76,.985) 0%,rgba(0,73,79,.96) 38%,rgba(0,75,82,.79) 64%,rgba(0,77,84,.02) 100%)}
+.tech-footer-contact-item:first-child::before,.tech-footer-contact-address::before{opacity:1}
 .tech-footer-contact-icon{width:50px;height:50px;display:grid;place-items:center;border-radius:50%;border:3px solid #00c8ba;box-shadow:inset 0 0 12px rgba(0,201,179,.14),0 0 18px rgba(0,188,176,.12);background:#014b52;color:#fff;margin-bottom:12px;flex-shrink:0}
 .tech-footer-contact-icon svg{width:54%;height:54%;stroke-width:2.1;fill:none}
 .tech-footer-contact-item a{color:#f4ffff;text-decoration:none;display:block;overflow-wrap:anywhere;transition:color .18s ease}
 .tech-footer-contact-item a span{display:block}
 .tech-footer-contact-item a:hover{color:#67f2dd}
 .tech-footer-contact-item a:focus-visible{outline:2px solid #37f1db;outline-offset:5px;border-radius:2px}
-.tech-footer-contact-address a{white-space:nowrap;overflow-wrap:normal;word-break:normal;text-shadow:0 1px 8px rgba(0,0,0,.16)}
-.tech-footer-contact-phones a{white-space:nowrap;font-variant-numeric:tabular-nums}
+.tech-footer-contact-address a{white-space:nowrap;overflow-wrap:normal;word-break:normal;text-shadow:0 1px 8px rgba(0,0,0,.16);font-size:clamp(11px,.88vw,15px)}
+.tech-footer-contact-phones{padding-right:0}
+.tech-footer-contact-phones a{white-space:nowrap;font-variant-numeric:tabular-nums;font-size:clamp(11px,.88vw,15px)}
 .tech-footer-emails{display:flex;flex-direction:column;align-items:flex-start;gap:1px;min-width:0}
-.tech-footer-emails>a{white-space:nowrap;overflow-wrap:normal;word-break:normal}
+.tech-footer-emails>a{white-space:nowrap;overflow-wrap:normal;word-break:normal;font-size:clamp(11px,.9vw,15px)}
 .tech-footer-contact-item:has(.tech-footer-emails){min-height:175px}
 .technica-redesigned-footer>.container{position:relative;z-index:1;background:transparent;padding-top:18px}
 .technica-redesigned-footer .footer-grid,
@@ -68,13 +71,14 @@
 .technica-redesigned-footer .footer-bottom{border-top:1px solid rgba(211,250,248,.13);padding:23px 0 20px}
 .technica-redesigned-footer .footer-developer{padding:12px 0 22px;border-top:1px solid rgba(211,250,248,.1)}
 @media(min-width:1850px){.tech-footer-showcase{min-height:300px}.tech-footer-showcase-inner{min-height:300px}}
-@media(max-width:1450px){
+@media(max-width:1540px){
   .tech-footer-showcase-inner{grid-template-columns:1fr;gap:26px;min-height:0;padding-top:30px;padding-bottom:34px}
-  .tech-footer-contact-columns{grid-template-columns:1fr 1.08fr .9fr}
+  .tech-footer-contact-columns{grid-template-columns:minmax(220px,.95fr) minmax(360px,1.42fr) minmax(200px,.82fr)}
   .technica-redesigned-footer .footer-grid{grid-template-columns:1.18fr 1fr 1.1fr .8fr;gap:34px}
 }
 @media(max-width:980px){
-  .tech-footer-contact-columns{grid-template-columns:.95fr 1.15fr .9fr}
+  .tech-footer-contact-columns{grid-template-columns:minmax(180px,.88fr) minmax(300px,1.3fr) minmax(165px,.82fr)}
+  .tech-footer-contact-address a{white-space:normal}
   .tech-footer-emails>a{white-space:normal;overflow-wrap:anywhere}
   .technica-redesigned-footer .footer-grid{grid-template-columns:1.35fr 1fr 1fr;gap:24px}
   .technica-redesigned-footer .footer-grid>div:last-child{grid-column:2}
