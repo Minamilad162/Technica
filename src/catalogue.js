@@ -13,8 +13,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Hazard register",
-      "prioritised actions",
-      "roadmap for further safety studies"
+      "Prioritised actions",
+      "Roadmap for further safety studies"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -39,8 +39,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "HAZOP worksheets",
-      "recommendations",
-      "closeout register"
+      "Recommendations",
+      "Closeout register"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -65,7 +65,7 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Area classification drawings",
-      "zoning report",
+      "Zoning report",
       "Ex equipment requirements"
     ],
     "inputs": [
@@ -91,8 +91,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Bowtie models",
-      "barrier review",
-      "improvement actions"
+      "Barrier review",
+      "Improvement actions"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -117,8 +117,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Construction risk register",
-      "high-risk activity controls",
-      "method statement and JSA inputs"
+      "High-risk activity controls",
+      "Method statement and JSA inputs"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -143,8 +143,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Constructability findings",
-      "design recommendations",
-      "schedule and cost inputs"
+      "Design recommendations",
+      "Schedule and cost inputs"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -169,8 +169,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Change impact assessment",
-      "document update requirements",
-      "change log"
+      "Document update requirements",
+      "Change log"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -196,7 +196,7 @@ export const catalogueDetails = [
     "outputs": [
       "Electrical safety report",
       "TCC curves",
-      "compliance findings"
+      "Compliance findings"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -221,8 +221,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Logic weaknesses",
-      "alarm and interlock recommendations",
-      "bypass and override risk findings"
+      "Alarm and interlock recommendations",
+      "Bypass and override risk findings"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -247,8 +247,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Safety philosophy documents",
-      "spacing and layout studies",
-      "safety-system design basis"
+      "Spacing and layout studies",
+      "Safety-system design basis"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -273,8 +273,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Gap report",
-      "closeout plan",
-      "third-party verification statement within agreed scope"
+      "Closeout plan",
+      "Third-party verification statement within agreed scope"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -300,7 +300,7 @@ export const catalogueDetails = [
     "outputs": [
       "Hydraulic calculations",
       "P&IDs and isometrics",
-      "component specifications and datasheets"
+      "Component specifications and datasheets"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -325,7 +325,7 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "QRA report",
-      "individual and societal risk outputs",
+      "Individual and societal risk outputs",
       "ALARP and cost-benefit analysis"
     ],
     "inputs": [
@@ -351,8 +351,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "EERA report",
-      "evacuation and endurance times",
-      "design recommendations"
+      "Evacuation and endurance times",
+      "Design recommendations"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -377,9 +377,9 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Adequacy report",
-      "hydraulic results",
-      "gap assessment",
-      "upgrade priorities"
+      "Hydraulic results",
+      "Gap assessment",
+      "Upgrade priorities"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -404,7 +404,7 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "LOPA worksheets",
-      "safeguard gap analysis",
+      "Safeguard gap analysis",
       "SIL determination inputs"
     ],
     "inputs": [
@@ -430,8 +430,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Survivability report",
-      "vulnerabilities",
-      "protection and redundancy recommendations"
+      "Vulnerabilities",
+      "Protection and redundancy recommendations"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -456,8 +456,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "TR impairment report",
-      "endurance verification",
-      "integrity improvements"
+      "Endurance verification",
+      "Integrity improvements"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -482,8 +482,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Dispersion and consequence report",
-      "detector recommendations",
-      "emergency planning basis"
+      "Detector recommendations",
+      "Emergency planning basis"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -508,8 +508,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Collision analysis",
-      "structural and exclusion-zone recommendations",
-      "marine procedure inputs"
+      "Structural and exclusion-zone recommendations",
+      "Marine procedure inputs"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -534,8 +534,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Detector layouts",
-      "mapping report and coverage statistics",
-      "cause-and-effect basis"
+      "Mapping report and coverage statistics",
+      "Cause-and-effect basis"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -560,9 +560,9 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "FSA report",
-      "control-option comparison",
-      "cost-benefit assessment",
-      "recommendations"
+      "Control-option comparison",
+      "Cost-benefit assessment",
+      "Recommendations"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -587,7 +587,7 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "AFP/PFP design packages",
-      "specifications",
+      "Specifications",
       "BOQ and contractor work packages"
     ],
     "inputs": [
@@ -613,8 +613,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "EIA report",
-      "environmental management plan",
-      "stakeholder communication inputs"
+      "Environmental management plan",
+      "Stakeholder communication inputs"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -639,7 +639,7 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Integrity framework",
-      "inspection and maintenance strategies",
+      "Inspection and maintenance strategies",
       "SCE performance requirements"
     ],
     "inputs": [
@@ -666,7 +666,7 @@ export const catalogueDetails = [
     "outputs": [
       "SIL determination report",
       "SIF list",
-      "draft SRS inputs"
+      "Draft SRS inputs"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -692,7 +692,7 @@ export const catalogueDetails = [
     "outputs": [
       "Thermal and overpressure contours",
       "PFP requirements",
-      "blast-protection recommendations"
+      "Blast-protection recommendations"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -718,7 +718,7 @@ export const catalogueDetails = [
     "outputs": [
       "Modelling analysis",
       "HVAC effectiveness findings",
-      "design recommendations"
+      "Design recommendations"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -743,8 +743,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Building risk report",
-      "siting or upgrade recommendations",
-      "emergency-plan inputs"
+      "Siting or upgrade recommendations",
+      "Emergency-plan inputs"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -769,8 +769,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Optimised layout",
-      "separation and access requirements",
-      "design recommendations"
+      "Separation and access requirements",
+      "Design recommendations"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -796,7 +796,7 @@ export const catalogueDetails = [
     "outputs": [
       "Safeguarding memorandum",
       "PSV calculations",
-      "hydraulic and compliance verification"
+      "Hydraulic and compliance verification"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -821,8 +821,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Master alarm database",
-      "alarm philosophy",
-      "alarm-performance KPIs"
+      "Alarm philosophy",
+      "Alarm-performance KPIs"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -847,8 +847,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Control-room and HMI recommendations",
-      "procedure improvements",
-      "training-needs inputs"
+      "Procedure improvements",
+      "Training-needs inputs"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -873,9 +873,9 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "SIMOPS risk register",
-      "constraints matrix",
-      "bridging document",
-      "communication arrangements"
+      "Constraints matrix",
+      "Bridging document",
+      "Communication arrangements"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -900,8 +900,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "PSSR checklists",
-      "punch list and closeout record",
-      "startup-readiness recommendation"
+      "Punch list and closeout record",
+      "Startup-readiness recommendation"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -926,8 +926,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Gap report",
-      "improvement roadmap",
-      "leading and lagging KPI recommendations"
+      "Improvement roadmap",
+      "Leading and lagging KPI recommendations"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -952,9 +952,9 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "MOC procedure",
-      "risk-assessment templates",
-      "review checklists",
-      "implementation training"
+      "Risk-assessment templates",
+      "Review checklists",
+      "Implementation training"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -980,7 +980,7 @@ export const catalogueDetails = [
     "outputs": [
       "Safety case",
       "SCE register",
-      "performance standards",
+      "Performance standards",
       "ALARP demonstration"
     ],
     "inputs": [
@@ -1006,9 +1006,9 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Emergency response plans",
-      "checklists",
-      "drill evaluations",
-      "improvement actions"
+      "Checklists",
+      "Drill evaluations",
+      "Improvement actions"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1033,9 +1033,9 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Investigation report",
-      "root-cause findings",
+      "Root-cause findings",
       "SMART recommendations",
-      "recurrence-prevention plan"
+      "Recurrence-prevention plan"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1060,8 +1060,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "RBI plan",
-      "integrity operating windows",
-      "corrosion and NDT strategy"
+      "Integrity operating windows",
+      "Corrosion and NDT strategy"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1086,8 +1086,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Pipeline risk register",
-      "integrity management plan",
-      "pigging and leak-response recommendations"
+      "Integrity management plan",
+      "Pigging and leak-response recommendations"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1113,7 +1113,7 @@ export const catalogueDetails = [
     "outputs": [
       "Compliance gap report",
       "Ex inspection strategy",
-      "inspection records"
+      "Inspection records"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1138,8 +1138,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "DHA report",
-      "protection-system recommendations",
-      "dust-control procedures"
+      "Protection-system recommendations",
+      "Dust-control procedures"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1164,8 +1164,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "ODH register",
-      "ventilation and detector recommendations",
-      "emergency procedure inputs"
+      "Ventilation and detector recommendations",
+      "Emergency procedure inputs"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1190,7 +1190,7 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "SIF SIL ratings",
-      "assessment worksheets and rationale",
+      "Assessment worksheets and rationale",
       "SRS basis"
     ],
     "inputs": [
@@ -1216,8 +1216,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "SECE register",
-      "performance standards",
-      "assurance and verification tasks"
+      "Performance standards",
+      "Assurance and verification tasks"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1242,9 +1242,9 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Photographic assessment report",
-      "non-conformances",
-      "corrective actions",
-      "barrier-condition record"
+      "Non-conformances",
+      "Corrective actions",
+      "Barrier-condition record"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1269,7 +1269,7 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "RCM report",
-      "justified maintenance task list and frequencies"
+      "Justified maintenance task list and frequencies"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1294,8 +1294,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Safety case",
-      "linked MOC process",
-      "periodic review and update schedule"
+      "Linked MOC process",
+      "Periodic review and update schedule"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1320,8 +1320,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "PSM strategy and policy",
-      "gap assessment",
-      "implementation plan and procedures"
+      "Gap assessment",
+      "Implementation plan and procedures"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1346,9 +1346,9 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Design HSE case",
-      "hazard register",
+      "Hazard register",
       "Bowties",
-      "initial SECE register"
+      "Initial SECE register"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1374,7 +1374,7 @@ export const catalogueDetails = [
     "outputs": [
       "Operations HSE case",
       "SECE performance standards",
-      "auditable control-to-operation links"
+      "Auditable control-to-operation links"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1399,9 +1399,9 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Operationalisation plan",
-      "critical-role profiles",
+      "Critical-role profiles",
       "CMMS tasks",
-      "training and verification tools"
+      "Training and verification tools"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1426,8 +1426,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Audit report",
-      "prioritised non-conformances",
-      "corrective-action recommendations"
+      "Prioritised non-conformances",
+      "Corrective-action recommendations"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1452,8 +1452,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Risk-ranked HSE-MS audit findings",
-      "strengths and gaps",
-      "improvement recommendations"
+      "Strengths and gaps",
+      "Improvement recommendations"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1478,8 +1478,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Manual-specific audit reports",
-      "revision recommendations",
-      "field-verification findings"
+      "Revision recommendations",
+      "Field-verification findings"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1504,8 +1504,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Lessons-learnt procedure",
-      "central register or database",
-      "communication and closure process"
+      "Central register or database",
+      "Communication and closure process"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1530,8 +1530,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Legal and other requirements register",
-      "compliance audit",
-      "update framework"
+      "Compliance audit",
+      "Update framework"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1556,8 +1556,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Mandatory control framework",
-      "life-saving rules",
-      "verification process"
+      "Life-saving rules",
+      "Verification process"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1582,8 +1582,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Noise survey and contours",
-      "exposure/compliance assessment",
-      "noise-control action plan"
+      "Exposure/compliance assessment",
+      "Noise-control action plan"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1608,8 +1608,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Environmental noise impact report",
-      "prediction models and contours",
-      "mitigation recommendations"
+      "Prediction models and contours",
+      "Mitigation recommendations"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1634,8 +1634,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Standard-selection advice",
-      "gap assessment",
-      "implementation roadmap"
+      "Gap assessment",
+      "Implementation roadmap"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1660,8 +1660,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "QMS documentation",
-      "procedures/forms",
-      "internal audit and management review"
+      "Procedures/forms",
+      "Internal audit and management review"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1687,7 +1687,7 @@ export const catalogueDetails = [
     "outputs": [
       "OH&S manual/procedures",
       "HIRA register",
-      "audit-readiness support"
+      "Audit-readiness support"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1712,8 +1712,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "EMS documentation",
-      "aspects/impacts/legal registers",
-      "performance monitoring framework"
+      "Aspects/impacts/legal registers",
+      "Performance monitoring framework"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1738,8 +1738,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Laboratory management system",
-      "validation and uncertainty templates",
-      "accreditation-readiness support"
+      "Validation and uncertainty templates",
+      "Accreditation-readiness support"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1764,9 +1764,9 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "EnMS documentation",
-      "energy review and baseline",
+      "Energy review and baseline",
       "EnPI framework",
-      "certification-readiness support"
+      "Certification-readiness support"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1791,7 +1791,7 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "ISMS",
-      "risk assessment and treatment plan",
+      "Risk assessment and treatment plan",
       "Statement of Applicability support"
     ],
     "inputs": [
@@ -1817,8 +1817,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "BCMS",
-      "business impact analysis",
-      "response and recovery plans with testing"
+      "Business impact analysis",
+      "Response and recovery plans with testing"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1843,8 +1843,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Risk framework/policy/procedure",
-      "registers/tools",
-      "staff training"
+      "Registers/tools",
+      "Staff training"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1869,9 +1869,9 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Control procedure",
-      "master document list",
-      "numbering and version rules",
-      "retention schedule"
+      "Master document list",
+      "Numbering and version rules",
+      "Retention schedule"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1945,9 +1945,9 @@ export const catalogueDetails = [
     "outputs": [
       "IFC package",
       "SLDs",
-      "electrical layouts",
-      "yield simulation",
-      "bill of materials"
+      "Electrical layouts",
+      "Yield simulation",
+      "Bill of materials"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -1999,8 +1999,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Asset load profiles",
-      "peak-demand findings",
-      "permanent monitoring and sub-metering plan"
+      "Peak-demand findings",
+      "Permanent monitoring and sub-metering plan"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2026,7 +2026,7 @@ export const catalogueDetails = [
     "outputs": [
       "Technical/financial feasibility",
       "ROI/payback/lifecycle models",
-      "generation recommendation"
+      "Generation recommendation"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2049,18 +2049,18 @@ export const catalogueDetails = [
     "scope": [
       "Prioritise conservation projects and evaluate investments using lifecycle cost and business value.",
       "Lighting",
-      "motors",
+      "Motors",
       "HVAC",
-      "refrigeration",
-      "steam and hot-water systems",
-      "air compressors",
-      "waste-heat recovery",
-      "new technologies. Source: Energy portfolio p.2 and p.8"
+      "Refrigeration",
+      "Steam and hot-water systems",
+      "Air compressors",
+      "Waste-heat recovery",
+      "New technologies. Source: Energy portfolio p.2 and p.8"
     ],
     "outputs": [
       "Prioritised ECM portfolio",
-      "project cost-benefit analysis",
-      "phased implementation schedule"
+      "Project cost-benefit analysis",
+      "Phased implementation schedule"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2111,9 +2111,9 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Training materials",
-      "on-site workshops",
-      "energy-awareness toolkit",
-      "conservation-culture framework"
+      "On-site workshops",
+      "Energy-awareness toolkit",
+      "Conservation-culture framework"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2138,8 +2138,8 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Audit report",
-      "quantified ECM list and estimated savings",
-      "energy baseline"
+      "Quantified ECM list and estimated savings",
+      "Energy baseline"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2162,15 +2162,15 @@ export const catalogueDetails = [
     "scope": [
       "Coordinate engineering, procurement, construction and handover around project requirements.",
       "Integrated delivery approach",
-      "project coordination",
-      "design/procurement integration",
-      "delivery interfaces"
+      "Project coordination",
+      "Design/procurement integration",
+      "Delivery interfaces"
     ],
     "outputs": [
       "Integrated delivery approach",
-      "project coordination",
-      "design/procurement integration",
-      "delivery interfaces"
+      "Project coordination",
+      "Design/procurement integration",
+      "Delivery interfaces"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2193,19 +2193,19 @@ export const catalogueDetails = [
     "scope": [
       "Source electrical, mechanical, control and specialist equipment and manage supply-chain interfaces.",
       "Vendor prequalification",
-      "technical/commercial bid evaluations",
-      "expediting",
+      "Technical/commercial bid evaluations",
+      "Expediting",
       "FAT/SAT surveillance",
-      "logistics/customs",
-      "inventory control"
+      "Logistics/customs",
+      "Inventory control"
     ],
     "outputs": [
       "Vendor prequalification",
-      "technical/commercial bid evaluations",
-      "expediting",
+      "Technical/commercial bid evaluations",
+      "Expediting",
       "FAT/SAT surveillance",
-      "logistics/customs",
-      "inventory control"
+      "Logistics/customs",
+      "Inventory control"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2229,24 +2229,24 @@ export const catalogueDetails = [
       "Source electrical, mechanical, control and specialist equipment and manage supply-chain interfaces.",
       "LV/MV switchgear",
       "MCCs",
-      "transformers",
-      "generators",
-      "motors",
+      "Transformers",
+      "Generators",
+      "Motors",
       "UPS/batteries",
-      "cables",
-      "lighting",
-      "earthing and cable management"
+      "Cables",
+      "Lighting",
+      "Earthing and cable management"
     ],
     "outputs": [
       "LV/MV switchgear",
       "MCCs",
-      "transformers",
-      "generators",
-      "motors",
+      "Transformers",
+      "Generators",
+      "Motors",
       "UPS/batteries",
-      "cables",
-      "lighting",
-      "earthing and cable management"
+      "Cables",
+      "Lighting",
+      "Earthing and cable management"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2269,25 +2269,25 @@ export const catalogueDetails = [
     "scope": [
       "Source electrical, mechanical, control and specialist equipment and manage supply-chain interfaces.",
       "Pressure vessels",
-      "heat exchangers",
-      "columns",
+      "Heat exchangers",
+      "Columns",
       "API 650/620 tanks",
-      "pumps",
-      "compressors",
-      "turbines",
-      "blowers/fans",
-      "piping and steel"
+      "Pumps",
+      "Compressors",
+      "Turbines",
+      "Blowers/fans",
+      "Piping and steel"
     ],
     "outputs": [
       "Pressure vessels",
-      "heat exchangers",
-      "columns",
+      "Heat exchangers",
+      "Columns",
       "API 650/620 tanks",
-      "pumps",
-      "compressors",
-      "turbines",
-      "blowers/fans",
-      "piping and steel"
+      "Pumps",
+      "Compressors",
+      "Turbines",
+      "Blowers/fans",
+      "Piping and steel"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2311,20 +2311,20 @@ export const catalogueDetails = [
       "Source electrical, mechanical, control and specialist equipment and manage supply-chain interfaces.",
       "DCS",
       "PLC/SCADA",
-      "control valves/actuators/positioners",
+      "Control valves/actuators/positioners",
       "P/T/F/L instruments",
-      "analysers",
+      "Analysers",
       "F&G systems",
-      "cables/tubing/fittings"
+      "Cables/tubing/fittings"
     ],
     "outputs": [
       "DCS",
       "PLC/SCADA",
-      "control valves/actuators/positioners",
+      "Control valves/actuators/positioners",
       "P/T/F/L instruments",
-      "analysers",
+      "Analysers",
       "F&G systems",
-      "cables/tubing/fittings"
+      "Cables/tubing/fittings"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2347,14 +2347,14 @@ export const catalogueDetails = [
     "scope": [
       "Source electrical, mechanical, control and specialist equipment and manage supply-chain interfaces.",
       "Pressure/temperature/electrical calibrators",
-      "cathodic protection",
-      "cranes/hoists/slings/tackles",
+      "Cathodic protection",
+      "Cranes/hoists/slings/tackles",
       "LAN and network testers"
     ],
     "outputs": [
       "Pressure/temperature/electrical calibrators",
-      "cathodic protection",
-      "cranes/hoists/slings/tackles",
+      "Cathodic protection",
+      "Cranes/hoists/slings/tackles",
       "LAN and network testers"
     ],
     "inputs": [
@@ -2378,17 +2378,17 @@ export const catalogueDetails = [
     "scope": [
       "Deliver multidisciplinary construction and installation works to the agreed project scope.",
       "Turnkey/site management",
-      "constructability",
+      "Constructability",
       "HSE/quality implementation",
-      "skilled disciplines",
-      "pre-commissioning, commissioning and start-up support"
+      "Skilled disciplines",
+      "Pre-commissioning, commissioning and start-up support"
     ],
     "outputs": [
       "Turnkey/site management",
-      "constructability",
+      "Constructability",
       "HSE/quality implementation",
-      "skilled disciplines",
-      "pre-commissioning, commissioning and start-up support"
+      "Skilled disciplines",
+      "Pre-commissioning, commissioning and start-up support"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2411,19 +2411,19 @@ export const catalogueDetails = [
     "scope": [
       "Deliver multidisciplinary construction and installation works to the agreed project scope.",
       "Earthworks/grading",
-      "concrete foundations",
-      "steel erection",
-      "underground utilities",
-      "buildings",
-      "roads/paving"
+      "Concrete foundations",
+      "Steel erection",
+      "Underground utilities",
+      "Buildings",
+      "Roads/paving"
     ],
     "outputs": [
       "Earthworks/grading",
-      "concrete foundations",
-      "steel erection",
-      "underground utilities",
-      "buildings",
-      "roads/paving"
+      "Concrete foundations",
+      "Steel erection",
+      "Underground utilities",
+      "Buildings",
+      "Roads/paving"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2446,25 +2446,25 @@ export const catalogueDetails = [
     "scope": [
       "Deliver multidisciplinary construction and installation works to the agreed project scope.",
       "Heavy lifts",
-      "piping fabrication",
+      "Piping fabrication",
       "CS/SS/alloy welding",
       "NDE",
-      "hydrotesting",
-      "flushing",
-      "reinstatement",
-      "bolt/flange management",
-      "coatings/insulation"
+      "Hydrotesting",
+      "Flushing",
+      "Reinstatement",
+      "Bolt/flange management",
+      "Coatings/insulation"
     ],
     "outputs": [
       "Heavy lifts",
-      "piping fabrication",
+      "Piping fabrication",
       "CS/SS/alloy welding",
       "NDE",
-      "hydrotesting",
-      "flushing",
-      "reinstatement",
-      "bolt/flange management",
-      "coatings/insulation"
+      "Hydrotesting",
+      "Flushing",
+      "Reinstatement",
+      "Bolt/flange management",
+      "Coatings/insulation"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2488,18 +2488,18 @@ export const catalogueDetails = [
       "Deliver multidisciplinary construction and installation works to the agreed project scope.",
       "Trays/conduits",
       "MV/LV cabling/termination",
-      "switchgear/transformers/motors",
-      "field instruments",
-      "tubing",
-      "loop and function tests"
+      "Switchgear/transformers/motors",
+      "Field instruments",
+      "Tubing",
+      "Loop and function tests"
     ],
     "outputs": [
       "Trays/conduits",
       "MV/LV cabling/termination",
-      "switchgear/transformers/motors",
-      "field instruments",
-      "tubing",
-      "loop and function tests"
+      "Switchgear/transformers/motors",
+      "Field instruments",
+      "Tubing",
+      "Loop and function tests"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2522,15 +2522,15 @@ export const catalogueDetails = [
     "scope": [
       "Support testing, startup and handover with the project resources and assurance arrangements required.",
       "Cranes/manlifts/forklifts",
-      "excavators/dozers/graders",
-      "trailers/tractors",
-      "hydrotest/compressor/bending/blasting/welding equipment"
+      "Excavators/dozers/graders",
+      "Trailers/tractors",
+      "Hydrotest/compressor/bending/blasting/welding equipment"
     ],
     "outputs": [
       "Cranes/manlifts/forklifts",
-      "excavators/dozers/graders",
-      "trailers/tractors",
-      "hydrotest/compressor/bending/blasting/welding equipment"
+      "Excavators/dozers/graders",
+      "Trailers/tractors",
+      "Hydrotest/compressor/bending/blasting/welding equipment"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2553,15 +2553,15 @@ export const catalogueDetails = [
     "scope": [
       "Coordinate engineering, procurement, construction and handover around project requirements.",
       "Project HSE implementation",
-      "safety talks",
-      "workforce training",
-      "stop-work arrangements"
+      "Safety talks",
+      "Workforce training",
+      "Stop-work arrangements"
     ],
     "outputs": [
       "Project HSE implementation",
-      "safety talks",
-      "workforce training",
-      "stop-work arrangements"
+      "Safety talks",
+      "Workforce training",
+      "Stop-work arrangements"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2584,15 +2584,15 @@ export const catalogueDetails = [
     "scope": [
       "Support testing, startup and handover with the project resources and assurance arrangements required.",
       "Inspection and quality records",
-      "specifications/code checks",
-      "traceability",
-      "handover package and asset history"
+      "Specifications/code checks",
+      "Traceability",
+      "Handover package and asset history"
     ],
     "outputs": [
       "Inspection and quality records",
-      "specifications/code checks",
-      "traceability",
-      "handover package and asset history"
+      "Specifications/code checks",
+      "Traceability",
+      "Handover package and asset history"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2617,7 +2617,7 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Assessment findings and upgrade recommendations are mentioned",
-      "detailed deliverable scope to confirm"
+      "Detailed deliverable scope to confirm"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2642,7 +2642,7 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Corrosion findings and mitigation recommendations",
-      "detailed scope to confirm"
+      "Detailed scope to confirm"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2667,7 +2667,7 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "Calibration/verification service is named",
-      "ranges, traceability and certification scope to confirm"
+      "Ranges, traceability and certification scope to confirm"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2692,7 +2692,7 @@ export const catalogueDetails = [
     ],
     "outputs": [
       "AIM gap findings and improvement actions",
-      "detailed assessment framework to confirm"
+      "Detailed assessment framework to confirm"
     ],
     "inputs": [
       "Facility or organisational scope and objectives",
@@ -2713,7 +2713,7 @@ export const catalogueDetails = [
     "problem": "New procedures and frameworks may be understood differently by the people who must apply them.",
     "value": "Turn documented arrangements into practical role-based understanding and implementation.",
     "scope": [
-      "Help staff apply the organisation\u2019s risk framework, registers and assessment tools."
+      "Help staff apply the organisation’s risk framework, registers and assessment tools."
     ],
     "outputs": [
       "Team training to support a proactive risk-management culture"

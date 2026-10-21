@@ -1,12 +1,13 @@
 {
   "name": "technica-consult",
-  "version": "1.13.18",
+  "version": "1.13.19",
   "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
-    "build": "node scripts/check-image-assets.mjs && vite build && vite build --ssr src/main.jsx --outDir .ssr && node scripts/prerender.mjs",
-    "preview": "vite preview --host 0.0.0.0"
+    "build": "node scripts/check-sentence-case.mjs && node scripts/check-image-assets.mjs && vite build && vite build --ssr src/main.jsx --outDir .ssr && node scripts/prerender.mjs",
+    "preview": "vite preview --host 0.0.0.0",
+    "check:sentence-case": "node scripts/check-sentence-case.mjs"
   },
   "dependencies": {
     "react": "^19.1.0",
