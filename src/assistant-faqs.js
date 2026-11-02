@@ -312,7 +312,7 @@ export const assistantFaqs = [
     "id": 22,
     "category": "Digital tools",
     "question": "Which software applications do you offer?",
-    "answer": "Explore PSM Performance Dashboard, HSE Performance Dashboard, MOC & RFC Tracker, BowTie Studio, Action Tracker and ASSURIX. Each application addresses a defined operational workflow.",
+    "answer": "Explore PSM Performance Dashboard, HSE Performance Dashboard, Orbit MOC, BowTie Studio, Action Tracker and ASSURIX. Each application addresses a defined operational workflow.",
     "links": [
       {
         "label": "Explore Software Solutions",

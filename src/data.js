@@ -697,7 +697,7 @@ export const softwareApplications = [
   },
   {
     "id": "moc-rfc",
-    "name": "MOC & RFC Tracker",
+    "name": "Orbit MOC",
     "category": "Management of change",
     "icon": "Workflow",
     "color": "blue",
