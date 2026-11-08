@@ -218,3 +218,12 @@ html[data-motion=off] .headline-word{opacity:1;transform:none;filter:none}@media
 .software-app-grid .software-app:last-child>.software-app-cta{grid-column:auto}
 @media(min-width:1101px){.mega-menu{max-height:calc(100dvh - 92px);overflow-y:auto;overscroll-behavior:contain}}
 @media(max-width:650px){.tc-orbit-heading{padding:25px 18px;margin-bottom:20px;border-radius:20px}.software-portfolio-other{margin-top:40px}.software-app-tagline{font-size:14px}}
+
+/* About page office address: one continuous line where the actual panel width permits it.
+   A container query prevents horizontal overflow on tablets and narrow mobile layouts. */
+.about-office{container-type:inline-size}
+.about-office .office-address address{min-width:0}
+.about-office .office-address address>span{overflow-wrap:normal;word-break:normal}
+@container (min-width:445px){
+  .about-office .office-address address>span{white-space:nowrap;font-size:14px;letter-spacing:-.015em}
+}
