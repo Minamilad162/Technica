@@ -153,6 +153,11 @@ export const serviceVisuals = {
     "app-moc-rfc": "/assets/services/p37.webp",
     "app-bowtie-studio": "/assets/service-photos/bowtie-industrial.webp",
     "app-action-tracker": "/assets/services/h08.webp",
-    "app-assurix": "/assets/services/h07.webp"
+    "app-assurix": "/assets/services/h07.webp",
+    "app-orbit-loto": "/assets/services/p08.webp",
+    "app-orbit-ptw": "/assets/services/p36.webp",
+    "app-orbit-risk": "/assets/service-photos/hazop-industrial.webp",
+    "app-orbit-simops": "/assets/services/p34.webp",
+    "app-orbit-field": "/assets/services/h08.webp"
   }
 };

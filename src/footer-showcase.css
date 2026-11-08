@@ -152,3 +152,12 @@
   .payment-methods-heading::before,.payment-methods-heading::after{width:calc(50% - 68px)}
 }
 @media(prefers-reduced-motion:reduce){.tech-footer-contact-item a{transition:none}}
+
+/* Desktop: keep office location in one line without overlapping phone details. */
+@media(min-width:981px){
+ .tech-footer-contact-columns{grid-template-columns:minmax(190px,.78fr) minmax(440px,1.85fr) minmax(170px,.70fr);column-gap:8px}
+ .tech-footer-contact-address a{white-space:nowrap;overflow-wrap:normal;word-break:normal;font-size:clamp(10.5px,.72vw,13.5px)}
+}
+@media(min-width:701px) and (max-width:980px){
+ .tech-footer-contact-address a{white-space:normal;overflow-wrap:break-word}
+}

@@ -312,14 +312,14 @@ export const assistantFaqs = [
     "id": 22,
     "category": "Digital tools",
     "question": "Which software applications do you offer?",
-    "answer": "Explore PSM Performance Dashboard, HSE Performance Dashboard, Orbit MOC, BowTie Studio, Action Tracker and ASSURIX. Each application addresses a defined operational workflow.",
+    "answer": "The TC ORBIT operational safety platform includes ORBIT LOTO, ORBIT PTW, ORBIT RISK, ORBIT SIMOPS, ORBIT INSIGHT and ORBIT FIELD. Other solutions include PSM Performance Dashboard, Orbit MOC, BowTie Studio, Action Tracker and ASSURIX.",
     "links": [
       {
         "label": "Explore Software Solutions",
         "to": "/services/software-solutions"
       }
     ],
-    "keywords": "software apps dashboard psm hse moc rfc bowtie action assurix"
+    "keywords": "software apps tc orbit loto ptw permit risk jsa simops insight analytics field verification dashboard psm hse moc rfc bowtie action assurix"
   },
   {
     "id": 23,

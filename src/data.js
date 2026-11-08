@@ -727,13 +727,15 @@ export const softwareApplications = [
   },
   {
     "id": "hse-insight",
-    "name": "HSE Performance Dashboard",
-    "category": "HSE analytics & reporting",
+    "name": "ORBIT INSIGHT",
+    "category": "Dashboards & analytics",
     "icon": "ChartNoAxesCombined",
     "color": "lime",
-    "description": "Consolidate HSE indicators, incident information and management reporting in a clear dashboard.",
-    "problem": "Disconnected HSE records slow reporting and make performance comparisons difficult.",
-    "value": "A consolidated view helps management review trends and focus attention where it is needed."
+    "description": "Bring operational safety and HSE information together through dashboards, performance indicators and actionable analytics.",
+    "problem": "Disconnected reports make it difficult to compare trends and identify priorities across sites and teams.",
+    "value": "A consolidated view helps leaders spot patterns, monitor performance and prioritise improvements.",
+    "suite": "orbit",
+    "tagline": "Dashboards & Analytics"
   },
   {
     "id": "assurix",
@@ -744,6 +746,66 @@ export const softwareApplications = [
     "description": "Connect role competency requirements with assessments, gap analysis and development priorities.",
     "problem": "Separate role matrices and assessment records make workforce capability difficult to review consistently.",
     "value": "A structured view of competency requirements and assessment outcomes helps target development and support assurance."
+  },
+  {
+    "id": "orbit-loto",
+    "name": "ORBIT LOTO",
+    "suite": "orbit",
+    "tagline": "Energy Isolation",
+    "category": "Energy isolation",
+    "icon": "LockKeyhole",
+    "color": "teal",
+    "description": "Coordinate lockout/tagout planning, hazardous-energy isolation, checks and controlled reinstatement.",
+    "problem": "Disconnected isolation records can make energy status and handover responsibilities difficult to track.",
+    "value": "Clear isolation steps, ownership and verification records help teams coordinate safe work."
+  },
+  {
+    "id": "orbit-ptw",
+    "name": "ORBIT PTW",
+    "suite": "orbit",
+    "tagline": "Permit to Work",
+    "category": "Permit to work",
+    "icon": "FileCheck2",
+    "color": "blue",
+    "description": "Support permit preparation, review, authorisation, active work controls and formal closure.",
+    "problem": "Paper-based permits and scattered approvals can obscure current work status and responsibilities.",
+    "value": "A connected permit workflow improves visibility of approvals, precautions and ongoing work."
+  },
+  {
+    "id": "orbit-risk",
+    "name": "ORBIT RISK",
+    "suite": "orbit",
+    "tagline": "JSA & Risk Assessment",
+    "category": "Job safety analysis & risk",
+    "icon": "ClipboardCheck",
+    "color": "purple",
+    "description": "Structure job safety analyses and risk assessments around activities, hazards, controls and review.",
+    "problem": "Inconsistent assessments make it harder to compare risks and communicate essential safeguards.",
+    "value": "A repeatable assessment process helps teams document controls and understand their responsibilities."
+  },
+  {
+    "id": "orbit-simops",
+    "name": "ORBIT SIMOPS",
+    "suite": "orbit",
+    "tagline": "Simultaneous Operations",
+    "category": "Simultaneous operations",
+    "icon": "Waypoints",
+    "color": "coral",
+    "description": "Identify concurrent activities, review operational interfaces and coordinate SIMOPS safeguards.",
+    "problem": "Overlapping work can introduce conflicts when teams use separate activity schedules and controls.",
+    "value": "Shared visibility of simultaneous work supports coordination, interface reviews and risk controls."
+  },
+  {
+    "id": "orbit-field",
+    "name": "ORBIT FIELD",
+    "suite": "orbit",
+    "tagline": "Field Verification",
+    "category": "Field verification",
+    "icon": "ScanSearch",
+    "color": "lime",
+    "description": "Capture field verification visits, site observations, check results and follow-up actions.",
+    "problem": "Field findings recorded in disconnected notes can be difficult to review and close out.",
+    "value": "A structured verification record helps teams track what was checked, found and followed up."
   }
 ];
 
@@ -1037,7 +1099,14 @@ export const companyLogos = [
   }
 ];
 
-const hseIndex=softwareApplications.findIndex(a=>a.id==='hse-insight');
-softwareApplications.splice(1,0,...softwareApplications.splice(hseIndex,1));
+// Display the six TC ORBIT modules first, preserving their existing IDs and independent tools.
+const orbitOrder=['orbit-loto','orbit-ptw','orbit-risk','orbit-simops','hse-insight','orbit-field'];
+softwareApplications.sort((a,b)=>{
+ const ai=orbitOrder.indexOf(a.id),bi=orbitOrder.indexOf(b.id);
+ if(ai>=0&&bi>=0)return ai-bi;
+ if(ai>=0)return -1;
+ if(bi>=0)return 1;
+ return 0;
+});
 
 for(const app of softwareApplications)app.visual=serviceVisuals.software['app-'+app.id];

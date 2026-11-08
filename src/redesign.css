@@ -202,3 +202,19 @@ html[data-motion=off] .headline-word{opacity:1;transform:none;filter:none}@media
 .legal-content.legal-content-refined p{font-size:16px;line-height:1.85;color:#49656a;margin:0}
 .legal-content.legal-content-refined h2:not(:first-child){padding-top:24px;margin-top:27px;border-top:1px solid rgba(4,76,83,.13)}
 @media(max-width:650px){.legal-content.legal-content-refined{padding-top:24px;padding-bottom:50px}.legal-content.legal-content-refined h2:not(:first-child){margin-top:20px;padding-top:20px}}
+
+/* TC ORBIT portfolio – existing product card style with clear platform grouping */
+.tc-orbit-heading{padding:clamp(24px,4vw,44px);margin-bottom:28px;border:1px solid rgba(0,111,112,.15);border-radius:26px;background:linear-gradient(125deg,#e6f5f2 0%,#f9fbf9 52%,#eaf3f1 100%);text-align:center}
+.tc-orbit-heading .eyebrow{color:#0c686c;letter-spacing:.13em;font-size:12px;font-weight:700}
+.tc-orbit-heading h2{font-family:'DM Sans',Arial,sans-serif;color:#053c43;font-size:clamp(36px,5vw,64px);font-weight:800;letter-spacing:-.035em;line-height:1.05;margin:12px 0}
+.tc-orbit-heading p{font-size:clamp(16px,2.3vw,22px);color:#4a6265;margin:0;line-height:1.45}
+.software-app-tagline{font-size:15px;color:#0d6469;font-weight:700;margin:-4px 0 14px;line-height:1.5}
+.software-portfolio-other{margin-top:clamp(44px,6vw,76px);padding-top:clamp(24px,4vw,42px);border-top:1px solid #dce5df}
+.software-portfolio-other .section-title{margin-bottom:25px}
+.software-app-grid .software-app:last-child{display:flex;grid-column:auto;grid-template-columns:none}
+.software-app-grid .software-app:last-child .software-app-top{grid-column:auto}
+.software-app-grid .software-app:last-child>.eyebrow,.software-app-grid .software-app:last-child>h3,.software-app-grid .software-app:last-child>.software-app-description{grid-column:auto}
+.software-app-grid .software-app:last-child>.software-app-outcomes{grid-column:auto;grid-row:auto;border-left:0;border-top:1px solid #e3e8e2;padding:22px 0 0;margin-bottom:28px}
+.software-app-grid .software-app:last-child>.software-app-cta{grid-column:auto}
+@media(min-width:1101px){.mega-menu{max-height:calc(100dvh - 92px);overflow-y:auto;overscroll-behavior:contain}}
+@media(max-width:650px){.tc-orbit-heading{padding:25px 18px;margin-bottom:20px;border-radius:20px}.software-portfolio-other{margin-top:40px}.software-app-tagline{font-size:14px}}
